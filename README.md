@@ -4,7 +4,7 @@
 # update history
 | 新增日期    | 品飲日期    | 酒 款                                    | 風味概述                        | 筆記      |
 |-------------|-------------|------------------------------------------|---------------------------------|-----------|
-| 2025.05.02  | 2025.03.26  |Glenrothes WhiskyFind 1996 26yo HHD 50.5% | 胡椒 金黃蘋果 皮革 辛香料       | [Note](./Whisky\GlenRothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md) |
+| 2025.05.02  | 2025.03.26  |Glenrothes WhiskyFind 1996 26yo HHD 50.5% | 胡椒 金黃蘋果 皮革 辛香料       | [Note](./Whisky/GlenRothes/Glenrothes_WhiskyFind_1996_26yo_HHD_50-5/README.md) |
 | 2025.04.17  | 2025.04.05  |自製梅酒-君度 Cointreau                   | 柑橘佐梅子，口齒留香，每年必做  | [Note](./自製梅酒/bottled_2025/君度_Cointreau/README.md/) |
 | 2025.04.16  | 2025.04.05  |自製梅酒-玉山茅台                         | 聞起來很臭，喝起來卻不會臭，帶米香| [Note](./自製梅酒/bottled_2025/玉山茅台/README.md/) |
 
@@ -25,6 +25,16 @@
 
 <details>
 <summary><a href=".\Whisky\README.md">📁 Whisky</a></summary>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Balmenach\README.md">📂 Balmenach</a></summary>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Balmenach\Balmenach_Thompson-Bro-s_2013_10yo_Sherry_48-5\README.md">📂 Balmenach_Thompson-Bro-s_2013_10yo_Sherry_48-5</a></summary>
+
+</details>
+
+</details>
 
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Braeval\README.md">📂 Braeval</a></summary>
@@ -115,6 +125,21 @@
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Longmorn\Longmorn_IB_2010_14yo_Barrel_51-2\README.md">📂 Longmorn_IB_2010_14yo_Barrel_51-2</a></summary>
 
 </details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Longmorn\Longmorn_IB_2011_11yo_First-Barrel_53-5\README.md">📂 Longmorn_IB_2011_11yo_First-Barrel_53-5</a></summary>
+
+</details>
+
+</details>
+
+</details>
+
+<details>
+<summary><a href=".\todo\README.md">📁 todo</a></summary>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\todo\Photos-1-001\README.md">📂 Photos-1-001</a></summary>
 
 </details>
 
