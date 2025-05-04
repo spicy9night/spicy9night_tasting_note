@@ -2,11 +2,11 @@
  spicy9night's tasting note
 
 # update history
-| 新增日期    | 品飲日期    | 酒 款                                    | 風味概述                        | 筆記      |
-|-------------|-------------|------------------------------------------|---------------------------------|-----------|
-| 2025.05.02  | 2025.03.26  |Glenrothes WhiskyFind 1996 26yo HHD 50.5% | 胡椒 金黃蘋果 皮革 辛香料       | [Note](./Whisky/GlenRothes/Glenrothes_WhiskyFind_1996_26yo_HHD_50-5/README.md) |
-| 2025.04.17  | 2025.04.05  |自製梅酒-君度 Cointreau                   | 柑橘佐梅子，口齒留香，每年必做  | [Note](./自製梅酒/bottled_2025/君度_Cointreau/README.md/) |
-| 2025.04.16  | 2025.04.05  |自製梅酒-玉山茅台                         | 聞起來很臭，喝起來卻不會臭，帶米香| [Note](./自製梅酒/bottled_2025/玉山茅台/README.md/) |
+| 新增日期    | 品飲日期    | 酒 款                                         | 風味概述                        | 筆記      |
+|-------------|-------------|-----------------------------------------------|---------------------------------|-----------|
+| 2025.05.04  | 2025.03.19  |燒鳥 Highland Park 2008 15yo 1st-Bourbon 55.7% | 點點煙燻 芒果 奶油 水果軟糖     | [Note](./Whisky/Highland_Park/Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7/README.md) |
+| 2025.05.02  | 2025.03.26  |Glenrothes WhiskyFind 1996 26yo HHD 50.5%      | 胡椒 金黃蘋果 皮革 辛香料       | [Note](./Whisky/GlenRothes/Glenrothes_WhiskyFind_1996_26yo_HHD_50-5/README.md) |
+| 2025.04.17  | 2025.04.05  |自製梅酒-君度 Cointreau                        | 柑橘佐梅子，口齒留香，每年必做  | [Note](./自製梅酒/bottled_2025/君度_Cointreau/README.md/) |
 
 
 <details>
@@ -14,6 +14,7 @@
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2025.04.16  | 2025.04.05  |自製梅酒-玉山茅台                         | 聞起來很臭，喝起來卻不會臭，帶米香| [Note](./自製梅酒/bottled_2025/玉山茅台/README.md/) |
 | 2025.04.13  | 2025.04.05  |自製梅酒-Barcelò, Dorado Rum 巴塞羅．金色蘭姆酒 | 高酸度，富士蘋果，    | [Note](./自製梅酒/bottled_2025/Barcelò_Dorado_Rum_巴塞羅．金色蘭姆酒/README.md/) |
 | 2025.04.12  | 2025.04.05  |自製梅酒-Bacadi White Rum             | 梅子加了酒  Choya 基本款的風味  | [Note](./自製梅酒/bottled_2025/Bacardi_White_Rum/README.md/) |
 | 2025.04.10  | 2025.04.05  |自製梅酒-Vodka+Gin                    | 辛口，青蘋果香氣，青梅感        | [Note](./自製梅酒/bottled_2025/Vodka+Gin/README.md) |
@@ -149,10 +150,7 @@
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\README.md">📂 Highland_Park</a></summary>
 
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7\README.md">📂 Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7</a></summary>
-
-</details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7\README.md">📄 Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7</a>
 
 </details>
 

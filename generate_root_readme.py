@@ -55,26 +55,19 @@ def replace_menu_section(readme_path, toc_md):
 
     print(f"✅ 已更新 {readme_path} 中的 # Menu 區塊")
 
-def remove_gps_and_overwrite(image_path):
+def remove_exif_from_image(file_path):
     try:
-        img = Image.open(image_path)
-        if "exif" in img.info:
-            exif_dict = piexif.load(img.info["exif"])
-            exif_dict["GPS"] = {}  # 移除 GPS 資訊
-            exif_bytes = piexif.dump(exif_dict)
-            img.save(image_path, "jpeg", exif=exif_bytes)
-            print(f"✅ 已移除 GPS：{image_path}")
-        else:
-            print(f"⚠️ 無 EXIF 資訊，略過：{image_path}")
+        piexif.remove(file_path)
+        print(f"✅ 已移除 EXIF: {file_path}")
     except Exception as e:
-        print(f"❌ 錯誤處理 {image_path}：{e}")
+        print(f"❌ 處理失敗 {file_path}: {e}")
 
 def process_folder_recursively(root_folder):
     for dirpath, dirnames, filenames in os.walk(root_folder):
         for filename in filenames:
             if filename.lower().endswith((".jpg", ".jpeg")):
                 full_path = os.path.join(dirpath, filename)
-                remove_gps_and_overwrite(full_path)
+                remove_exif_from_image(full_path)
 
 
 if __name__ == "__main__":
