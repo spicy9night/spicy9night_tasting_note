@@ -10,7 +10,7 @@ def generate_toc(root_dir=".", level=0):
         full_path = os.path.join(root_dir, item)
 
         # 忽略以 . 開頭的資料夾（例如 .git, .vscode）
-        if item.startswith("."):
+        if item.startswith(".") or item.startswith("Tool") or item.startswith("todo") :
             continue
 
         readme_path = os.path.join(full_path, "README.md")
