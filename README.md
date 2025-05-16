@@ -4,16 +4,16 @@
 # update history
 | 新增日期    | 品飲日期    | 酒 款                                          | 風味概述                        | 筆記      |
 |-------------|-------------|------------------------------------------------|---------------------------------|-----------|
+| 2025.05.17  | 2025.01.16  |Inchgower WhiskyFind 1997 27yo HHD 52.3         | 蜂蜜水蜜桃飽滿，酒體又輕又柔    | [Note](./Whisky/Inchgower/Inchgower_WhiskyFind_1997_27yo_HHD_52-3/README.md) |
 | 2025.05.08  | 2025.03.17  |不朽之歌 第九章 Tamnavulin 2012 12yo Rum 52.8%  | 蜜蘋果 香檳葡萄 滿酸的 蜜餞番茄 | [Note](./Whisky/Tamnavulin/Tamnavulin_WhiskyFind_2012_12yo_Rum_52-8/README.md) |
 | 2025.05.07  | 2025.03.12  |北歐神話 牡鹿 Royal Brackla 2008 16yo HHD 52.8% | 點麥芽糖 淡淡李子 富士蘋果      | [Note](./Whisky/Royal_Brackla/Royal-Brackla_WhiskyFind_2008_16yo_HHD_52-8/README.md) |
-| 2025.05.06  | 2025.03.18  |Bar Rechared Glen Elgin 2010 13yo Oloroso 54.8% | 非常好喝，是我很喜歡的酒款      | [Note](./Whisky/Glen_Elgin/Glen-Elgin_WhiskyFind_2010_13yo_Oloroso-barrique_54-8/README.md) |
-
 
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2025.05.06  | 2025.03.18  |Bar Rechared Glen Elgin 2010 13yo Oloroso 54.8% | 非常好喝，是我很喜歡的酒款      | [Note](./Whisky/Glen_Elgin/Glen-Elgin_WhiskyFind_2010_13yo_Oloroso-barrique_54-8/README.md) |
 | 2025.05.04  | 2025.03.19  |燒鳥 Highland Park 2008 15yo 1st-Bourbon 55.7%  | 點點煙燻 芒果 奶油 水果軟糖     | [Note](./Whisky/Highland_Park/Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7/README.md) |
 | 2025.05.02  | 2025.03.26  |Glenrothes WhiskyFind 1996 26yo HHD 50.5%      | 胡椒 金黃蘋果 皮革 辛香料       | [Note](./Whisky/GlenRothes/Glenrothes_WhiskyFind_1996_26yo_HHD_50-5/README.md) |
 | 2025.04.17  | 2025.04.05  |自製梅酒-君度 Cointreau                        | 柑橘佐梅子，口齒留香，每年必做  | [Note](./自製梅酒/bottled_2025/君度_Cointreau/README.md/) |
@@ -169,10 +169,7 @@
 
 </details>
 
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Inchgower\裊裊\README.md">📂 裊裊</a></summary>
-
-</details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Inchgower\Inchgower_WhiskyFind_1997_27yo_HHD_52-3\README.md">📄 Inchgower_WhiskyFind_1997_27yo_HHD_52-3</a>
 
 </details>
 
