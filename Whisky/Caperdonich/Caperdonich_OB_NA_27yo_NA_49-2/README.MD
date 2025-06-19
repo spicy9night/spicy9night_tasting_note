@@ -1,3 +1,40 @@
+# Caperdinich 斯貝賽秘境 27yo 49.2%
+
+【香氣】甜玉米 西洋梨 白肉軟質水果 琵琶 楊桃  
+【味道】炒香甜高麗菜 甘草 百合 桂花 佛手柑  
+【結語】關廠酒廠，喝一支少一支，香甜口感，滑順酒體，清香美味，走的甜味是蔬菜水果的香甜，蔬菜高湯的清甜感，是我喜歡的類型
+【日期】2025.4.25  
+【評分】94  
+【價格】27000  
+
+酒廠歷史
+
+1898年 Glen Grant 對面建的一座釀酒廠，稱為 Glen Grant No.2  
+1902年 釀酒廠停止蒸餾  
+1965年 釀酒廠重新開業以幫助滿足Glen Grant的需求  
+1967年 擴展到四個蒸餾器，同時引入了新型蒸餾器  
+1977年 酒廠更名為 Caperdonich  
+1985年 原蒸餾器重新啟用  
+2001年 Caperdonich 出售給Pernod Ricard (保樂力加)  
+2002年 酒廠關閉，場地賣給Forsyth's coppersmiths  
+2011年 該場地被拆除，一套蒸餾器賣給Belgian Owl (比利時貓頭鷹蒸餾場)，另一套運往Falkirk  
+
+#caperdinich
+#pernodricard
+#whisky
+#whiskey
+#spicy9night
+#whiskylover
+
+![picture](./1.jpg)
+![picture](./2.jpg)
+![picture](./3.jpg)
+![picture](./4.jpg)
+![picture](./11.jpg)
+![picture](./12.jpg)
+![picture](./13.jpg)
+
+
 以下資訊以及部分圖片來自https://www.097.com.tw/article/2619
 
 「三大賣點」
