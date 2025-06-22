@@ -2,17 +2,18 @@
  spicy9night's tasting note
 
 # update history
-| 新增日期    | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
+| 新增日期     | 品飲日期    | 酒 款       @@                                       | 風味概述                        | 筆記      |
 |-------------|-------------|----------------------------------------------------|---------------------------------|-----------|
-| 2025.06.19  | 2025.04.25  |Caperdinich 斯貝賽秘境 27yo 49.2%                   | 甜玉米 西洋梨 白肉軟質水果 琵琶 | [Note](./Whisky/Caperdonich/Caperdonich_OB_NA_27yo_NA_49-2/README.md) |
-| 2025.06.18  | 2025.04.25  |Braeval 斯貝賽秘境 26yo 1st-Barrel 55.7%            | 香菜 葡萄柚白色 有campari的感覺 | [Note](./Whisky/Braeval/Braeval_OB_NA_26yo_NA_52-1/README.MD) |
-| 2025.06.17  | 2025.01.16  |Aultmore WhiskyFind 2008+2009 14yo Rye+Oloroso 55.7%| 桂花 香蕉水果麵包 水果軟糖      | [Note](./Whisky/Aultmore/Aultmore_Thompson-Bro-s_2008_14yo_Rye_Oloroso-Sherry_48-5/README.md) |
+| 2025.06.22  | 2025.04.25  |Caperdinich 斯貝賽秘境 Peated 27yo 54.4%             | 花香味的泥煤 墨魚麵包 蘋果香      | [Note](./Whisky/Caperdonich/Caperdonich_OB_NA_27yo_NA_54-4/README.md) |
+| 2025.06.19  | 2025.04.25  |Caperdinich 斯貝賽秘境 27yo 49.2%                    | 甜玉米 西洋梨 白肉軟質水果 琵琶 | [Note](./Whisky/Caperdonich/Caperdonich_OB_NA_27yo_NA_49-2/README.md) |
+| 2025.06.18  | 2025.04.25  |Braeval 斯貝賽秘境 26yo 1st-Barrel 55.7%             | 香菜 葡萄柚白色 有campari的感覺 | [Note](./Whisky/Braeval/Braeval_OB_NA_26yo_NA_52-1/README.MD) |
 
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2025.06.17  | 2025.01.16  |Aultmore WhiskyFind 2008+2009 14yo Rye+Oloroso 55.7%| 桂花 香蕉水果麵包 水果軟糖      | [Note](./Whisky/Aultmore/Aultmore_Thompson-Bro-s_2008_14yo_Rye_Oloroso-Sherry_48-5/README.md) |
 | 2025.05.17  | 2025.01.16  |Inchgower WhiskyFind 1997 27yo HHD 52.3             | 蜂蜜水蜜桃飽滿，酒體又輕又柔    | [Note](./Whisky/Inchgower/Inchgower_WhiskyFind_1997_27yo_HHD_52-3/README.md) |
 | 2025.05.08  | 2025.03.17  |不朽之歌 第九章 Tamnavulin 2012 12yo Rum 52.8%      | 蜜蘋果 香檳葡萄 滿酸的 蜜餞番茄 | [Note](./Whisky/Tamnavulin/Tamnavulin_WhiskyFind_2012_12yo_Rum_52-8/README.md) |
 | 2025.05.07  | 2025.03.12  |北歐神話 牡鹿 Royal Brackla 2008 16yo HHD 52.8% | 點麥芽糖 淡淡李子 富士蘋果      | [Note](./Whisky/Royal_Brackla/Royal-Brackla_WhiskyFind_2008_16yo_HHD_52-8/README.md) |
