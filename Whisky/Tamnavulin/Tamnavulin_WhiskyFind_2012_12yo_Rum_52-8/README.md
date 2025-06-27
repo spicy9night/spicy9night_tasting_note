@@ -7,6 +7,8 @@
 【評分】88  
 【價格】2XXX  
 
+2025.06.27 再喝一次，只留下甜美的味道，沒有汽油味了
+
 #tamnavulin
 #rumcask
 #whisky
