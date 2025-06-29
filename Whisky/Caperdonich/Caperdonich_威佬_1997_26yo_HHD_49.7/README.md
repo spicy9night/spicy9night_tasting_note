@@ -4,7 +4,7 @@
 【味道】瓜皮  
 【結語】當天喝完跟前兩支Caperdonich，這支不喜歡QQ， 不過當天也喝了很多杯，嗅覺味覺都快不行了XD  
 【日期】2025.04.25  
-【評分】82  
+【評分】85  
 【價格】1千左右 15ml  
 
 以下文字來自文威佬臉書
@@ -25,10 +25,6 @@ https://www.facebook.com/whiskyfogey/posts/%E9%81%A9%E9%80%A2%E4%BA%94%E9%80%B1%
 尾韻：薄薄的蜂蠟、菊花茶、絲滑的牛奶巧克力及麥芽香。
 有興趣收藏威佬五週年紀念選桶的佬朋友歡迎留言分享。
 
-#caperdonich
-#whisky
-#whiskey
-#spicy9night
-#whiskylover
+
 
 ![picture](./1.jpg)
