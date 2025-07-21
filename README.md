@@ -4,7 +4,7 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
-| 2025.07.22 | 2025.04.25  |Croftengea 2006 19yo oloroso sherry 53.1%           | 鹹魚 臭襪子 魚子醬 線香 木頭水  | [Note](./Whisky/Croftengea/Croftengea_IB_2006_19yo_Olorosso-Sherry_53-1/README.mdD) |
+| 2025.07.22 | 2025.04.25  |Croftengea 2006 19yo oloroso sherry 53.1%           | 鹹魚 臭襪子 魚子醬 線香 木頭水  | [Note](./Whisky/Croftengea/Croftengea_IB_2006_19yo_Olorosso-Sherry_53-1/README.md) |
 | 2025.07.01 | 2023.12.14  |貓的四季 Cooley WhiskyFind 猫美術館 20yo 56.1%      | 可以喝到多種風味，宛如春夏秋冬  | [Note](./Whisky/Cooley/Cooley_WhiskyFind_2002_20yo_Barrel_56-1/README.md) |
 | 2025.06.27 | 2025.04.25  |Caperdonich 威佬 1997 26yo HHD 49.7%                | 瓜皮                            | [Note](./Whisky/Caperdonich/Caperdonich_威佬_1997_26yo_HHD_49.7/README.md) |
 
