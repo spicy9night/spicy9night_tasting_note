@@ -4,15 +4,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2025.07.22 | 2025.04.25  |Glen Keith 斯貝賽秘境 31yo 1st-Bourbon 55.7%        | 有芒果味 尤其芒果心帶毛的部分   | [Note](./Whisky/Glen_Keith/Glen-Keith _OB_NA_31yo_NA_48-9/README.MD) |
 | 2025.07.22 | 2025.04.25  |Croftengea 2006 19yo oloroso sherry 53.1%           | 鹹魚 臭襪子 魚子醬 線香 木頭水  | [Note](./Whisky/Croftengea/Croftengea_IB_2006_19yo_Olorosso-Sherry_53-1/README.md) |
 | 2025.07.01 | 2023.12.14  |貓的四季 Cooley WhiskyFind 猫美術館 20yo 56.1%      | 可以喝到多種風味，宛如春夏秋冬  | [Note](./Whisky/Cooley/Cooley_WhiskyFind_2002_20yo_Barrel_56-1/README.md) |
-| 2025.06.27 | 2025.04.25  |Caperdonich 威佬 1997 26yo HHD 49.7%                | 瓜皮                            | [Note](./Whisky/Caperdonich/Caperdonich_威佬_1997_26yo_HHD_49.7/README.md) |
 
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2025.06.27 | 2025.04.25  |Caperdonich 威佬 1997 26yo HHD 49.7%                | 瓜皮                            | [Note](./Whisky/Caperdonich/Caperdonich_威佬_1997_26yo_HHD_49.7/README.md) |
 | 2025.06.22 | 2025.04.25  |Caperdinich 斯貝賽秘境 Peated 27yo 54.4%            | 花香味的泥煤 墨魚麵包 蘋果香    | [Note](./Whisky/Caperdonich/Caperdonich_OB_NA_27yo_NA_54-4/README.MD) |
 | 2025.06.19 | 2025.04.25  |Caperdinich 斯貝賽秘境 27yo 49.2%                   | 甜玉米 西洋梨 白肉軟質水果 琵琶 | [Note](./Whisky/Caperdonich/Caperdonich_OB_NA_27yo_NA_49-2/README.md) |
 | 2025.06.18 | 2025.04.25  |Braeval 斯貝賽秘境 26yo 1st-Barrel 55.7%            | 香菜 葡萄柚白色 有campari的感覺 | [Note](./Whisky/Braeval/Braeval_OB_NA_26yo_NA_52-1/README.MD) |
