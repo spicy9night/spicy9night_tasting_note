@@ -15,6 +15,8 @@ Glen Keith 長年被用作生產 Chivas Regal（起瓦士） 調和威士忌的�
 
 Glen Keith 被譽為「蘇格蘭的少林廚房」，是因為在 1970~80 年代，它被當成 Seagram（席格蘭）公司內部的 技術研發中心，進行許多蒸餾技術與酒體風味的實驗。甚至在這裡開發出像是 Glenisla（以泥煤水製成）與 Craigduff（泥煤+果香）等原酒風格。
 
+Alan Winchester 是現代蘇格蘭威士忌界的重要人物之一，他曾在 Glen Keith 擔任蒸餾主管，後來成為 Glenlivet（格蘭利威）的首席釀酒師。他的技術背景與經驗在 Glen Keith 累積，是他後來成功主導 Glenlivet 現代化的基礎。
+
 Glen Keith 曾於 1999 年停產，直到 2013 年才由 Chivas Brothers（保樂力加集團旗下）進行現代化改造並復產。Alan Winchester 也參與了這項復場計畫，因此被視為復興 Glen Keith 的關鍵人物之一。這支復場團隊將傳統與現代工藝結合，使其重新成為調和威士忌的關鍵酒廠。
 
 #glenkeith
