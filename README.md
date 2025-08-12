@@ -1,18 +1,18 @@
 # spicy9night_tasting_note
  spicy9night's tasting note
-
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2025.08.12 | 2025.04.25  |Glenkinchie 2008 17yo Sherry 55.7%                  | 紅酒 葡萄果汁 義美葡萄軟糖 木質 | [Note](./Whisky/Glenkinchie/Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2/README.md) |
 | 2025.08.5 | 2024.09.03   |五糧液 52%                                          | 黑豆味、荔枝、墨汁老雜貨店味    | [Note](./中式白酒/五糧液/2024/README.md) |
 | 2025.07.22 | 2025.04.25  |Glen Keith 斯貝賽秘境 31yo 1st-Bourbon 55.7%        | 有芒果味 尤其芒果心帶毛的部分   | [Note](./Whisky/Glen_Keith/Glen-Keith_OB_NA_31yo_NA_48-9/README.MD) |
-| 2025.07.22 | 2025.04.25  |Croftengea 2006 19yo oloroso sherry 53.1%           | 鹹魚 臭襪子 魚子醬 線香 木頭水  | [Note](./Whisky/Croftengea/Croftengea_IB_2006_19yo_Olorosso-Sherry_53-1/README.md) |
 
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2025.07.22 | 2025.04.25  |Croftengea 2006 19yo oloroso sherry 53.1%           | 鹹魚 臭襪子 魚子醬 線香 木頭水  | [Note](./Whisky/Croftengea/Croftengea_IB_2006_19yo_Olorosso-Sherry_53-1/README.md) |
 | 2025.07.01 | 2023.12.14  |貓的四季 Cooley WhiskyFind 猫美術館 20yo 56.1%      | 可以喝到多種風味，宛如春夏秋冬  | [Note](./Whisky/Cooley/Cooley_WhiskyFind_2002_20yo_Barrel_56-1/README.md) |
 | 2025.06.27 | 2025.04.25  |Caperdonich 威佬 1997 26yo HHD 49.7%                | 瓜皮                            | [Note](./Whisky/Caperdonich/Caperdonich_威佬_1997_26yo_HHD_49.7/README.md) |
 | 2025.06.22 | 2025.04.25  |Caperdinich 斯貝賽秘境 Peated 27yo 54.4%            | 花香味的泥煤 墨魚麵包 蘋果香    | [Note](./Whisky/Caperdonich/Caperdonich_OB_NA_27yo_NA_54-4/README.MD) |
@@ -120,10 +120,7 @@
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\README.md">📂 Glenkinchie</a></summary>
 
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2\README.md">📂 Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2</a></summary>
-
-</details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2\README.md">📄 Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2</a>
 
 </details>
 
