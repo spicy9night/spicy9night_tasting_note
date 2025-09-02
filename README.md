@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2025.09.0. | 2025.04.25  |Jura 2009 Ruby Port                                 | 香茅 檸檬 葡萄 胭脂             | [Note](./Whisky/Jura/Jura_IB_2009_16yo_Ruby-Port_47-9/README.md) |
 | 2025.09.02 | 2025.04.25  |Inchgower 2010 Tawny Port                           | 撲鼻的蔓越莓 莓果調性  苦甜糖   | [Note](./Whisky/Inchgower/Inchgower_IB_NA_NA_Tawny-Port_NA/README.md) |
 | 2025.08.14 | 2024.04.17  |赤狐夫人 Glenrothes1997 26yo Armagnac 53.9%         | 就是舒服，最優雅的配角          | [Note](./Whisky/GlenRothes/Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9/README.md) |
-| 2025.07.14 | 2025.01.16  |Glenrothes 1997 24yo Refill Hogsheand 48.9%         | 烤雞雞腿肉又甜又多汁的肉感      | [Note](./Whisky/GlenRothes/Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9/README.md) |
 
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2025.07.14 | 2025.01.16  |Glenrothes 1997 24yo Refill Hogsheand 48.9%         | 烤雞雞腿肉又甜又多汁的肉感      | [Note](./Whisky/GlenRothes/Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9/README.md) |
 | 2025.08.12 | 2025.04.25  |Glenkinchie 2008 17yo Sherry 55.7%                  | 紅酒 葡萄果汁 義美葡萄軟糖 木質 | [Note](./Whisky/Glenkinchie/Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2/README.md) |
 | 2025.08.5 | 2024.09.03   |五糧液 52%                                          | 黑豆味、荔枝、墨汁老雜貨店味    | [Note](./中式白酒/五糧液/2024/README.md) |
 | 2025.07.22 | 2025.04.25  |Glen Keith 斯貝賽秘境 31yo 1st-Bourbon 55.7%        | 有芒果味 尤其芒果心帶毛的部分   | [Note](./Whisky/Glen_Keith/Glen-Keith_OB_NA_31yo_NA_48-9/README.MD) |
@@ -164,10 +165,7 @@
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Jura\README.md">📂 Jura</a></summary>
 
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Jura\Jura_IB_2009_16yo_Rugy-Port_47-9\README.md">📂 Jura_IB_2009_16yo_Rugy-Port_47-9</a></summary>
-
-</details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Jura\Jura_IB_2009_16yo_Ruby-Port_47-9\README.md">📄 Jura_IB_2009_16yo_Ruby-Port_47-9</a>
 
 </details>
 
