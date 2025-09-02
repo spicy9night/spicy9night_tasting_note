@@ -3,7 +3,7 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
-| 2025.09.0. | 2025.04.25  |Jura 2009 Ruby Port                                 | 香茅 檸檬 葡萄 胭脂             | [Note](./Whisky/Jura/Jura_IB_2009_16yo_Ruby-Port_47-9/README.md) |
+| 2025.09.03 | 2025.04.25  |Jura 2009 Ruby Port                                 | 香茅 檸檬 葡萄 胭脂             | [Note](./Whisky/Jura/Jura_IB_2009_16yo_Ruby-Port_47-9/README.md) |
 | 2025.09.02 | 2025.04.25  |Inchgower 2010 Tawny Port                           | 撲鼻的蔓越莓 莓果調性  苦甜糖   | [Note](./Whisky/Inchgower/Inchgower_IB_NA_NA_Tawny-Port_NA/README.md) |
 | 2025.08.14 | 2024.04.17  |赤狐夫人 Glenrothes1997 26yo Armagnac 53.9%         | 就是舒服，最優雅的配角          | [Note](./Whisky/GlenRothes/Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9/README.md) |
 
