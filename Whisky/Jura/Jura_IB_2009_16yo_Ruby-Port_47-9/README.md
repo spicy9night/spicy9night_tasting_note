@@ -1,4 +1,4 @@
-# Jura 2009 Ruby Port
+# Jura 2009 Ruby Port 47.9%
 
 【香氣】香茅 檸檬 葡萄 胭脂  
 【味道】紅地球葡萄 水果  
