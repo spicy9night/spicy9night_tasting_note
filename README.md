@@ -3,7 +3,7 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
-| 2025.09.09 | 2025.09.09  |Pitcher's Cask Bimber 2020 5yo Palo Cortado 59.2%   | 果乾、淡淡可可調性、烘焙堅果    | [Note](./Whisky/Bimber/Bimber_OB_2020_5yo_Palo-Cortado_59-2/README.md) |
+| 2025.09.09 | 2025.09.09  |The Pitcher's Reverse Bimber 2020 5yo Palo Cortado 59.2%   | 果乾、淡淡可可調性、烘焙堅果    | [Note](./Whisky/Bimber/Bimber_OB_2020_5yo_Palo-Cortado_59-2/README.md) |
 | 2025.09.04 | 2024.04.25  |Longmore 2010 14yo Barrel 51.2%                     | 輕飄的水果 夏天、陽光曬過的味道 | [Note](./Whisky/Longmorn/Longmorn_IB_2010_14yo_Barrel_51-2/README.md) |
 | 2025.09.03 | 2025.04.25  |Jura 2009 Ruby Port 47.9%                           | 香茅 檸檬 葡萄 胭脂             | [Note](./Whisky/Jura/Jura_IB_2009_16yo_Ruby-Port_47-9/README.md) |
 
@@ -80,6 +80,11 @@
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Bimber\README.md">📂 Bimber</a></summary>
 
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bimber\Bimber_OB_2019_6yo_Ex-Bourbon_58-2\README.md">📂 Bimber_OB_2019_6yo_Ex-Bourbon_58-2</a></summary>
+
+</details>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bimber\Bimber_OB_2020_5yo_Palo-Cortado_59-2\README.md">📄 Bimber_OB_2020_5yo_Palo-Cortado_59-2</a>
 
 </details>
@@ -152,6 +157,8 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\README.md">📂 Highland_Park</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7\README.md">📄 Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_Ór-Sileis_1998_21yo_HHD_54-0\README.md">📄 Highland-Park_Ór-Sileis_1998_21yo_HHD_54-0</a>
 
 </details>
 

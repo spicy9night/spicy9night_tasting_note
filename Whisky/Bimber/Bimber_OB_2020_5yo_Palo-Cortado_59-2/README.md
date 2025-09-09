@@ -1,4 +1,4 @@
-# Pitcher's Cask Bimber Taiwan Edition 2020 5yo Palo Cortado 59.2%
+# The Pitcher's Reverse Bimber Taiwan Edition 2020 5yo Palo Cortado 59.2%
 
 【香氣】果乾、淡淡可可調性、木質調以及有點潮濕木頭味  
 【味道】奶油、烘焙堅果  
