@@ -1,0 +1,22 @@
+{
+  "Print to console": {
+    "scope": "markdown",
+    "prefix": "bar",
+    "body": [
+      "# Bar Back",
+      "",
+      "### 【結語】${1:包覆酒精感的能力薄弱，香氣不夠奔放與持久}",
+      "### 【日期】${2:2023.08.18}",
+      "### 【評分】${3:60}",
+      "",
+      "#barsurfing",
+      "#spicy9night",
+      "",
+      "![picture](./1.jpeg)",
+      "![picture](./2.jpeg)",
+      "![picture](./3.jpeg)",
+      "![picture](./12.jpg)"
+    ],
+    "description": "Insert a Bar README template"
+  }
+}

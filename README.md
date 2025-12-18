@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2025.12.18 | 2023.08.18  |NA                                                  | 包覆酒精感的能力薄弱，香氣不夠奔放與持久    | [Note](./Bar/Barback/README.md) |
 | 2025.12.08 | 2023.07.16  |Loch Lomond Cask&Thistle 1995 27yo HHD 52%          | 輕飄的水果 夏天、陽光曬過的味道 | [Note](./Whisky/Loch_Lomond/Loch-Lomond_Cask-&-Thistle_1995_27yo_HHD_52-0/README.md) |
 | 2025.09.10 | 2025.09.10  |Highland Park Ór Sileis 1998 21yo HHD 54%           | 淡雅花香，小白花香系，蜂蜜糖水，像是木屋裡的壁爐烘烤  | [Note](./Whisky/Highland_Park/Highland-Park_Ór-Sileis_1998_21yo_HHD_54-0/README.md) |
-| 2025.09.09 | 2025.09.09  |The Pitcher's Reverse Bimber 2020 5yo Palo Cortado 59.2%   | 果乾、淡淡可可調性、烘焙堅果    | [Note](./Whisky/Bimber/Bimber_OB_2020_5yo_Palo-Cortado_59-2/README.md) |
 
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2025.09.09 | 2025.09.09  |The Pitcher's Reverse Bimber 2020 5yo Palo Cortado 59.2%   | 果乾、淡淡可可調性、烘焙堅果    | [Note](./Whisky/Bimber/Bimber_OB_2020_5yo_Palo-Cortado_59-2/README.md) |
 | 2025.09.04 | 2024.04.25  |Longmore 2010 14yo Barrel 51.2%                     | 輕飄的水果 夏天、陽光曬過的味道 | [Note](./Whisky/Longmorn/Longmorn_IB_2010_14yo_Barrel_51-2/README.md) |
 | 2025.09.03 | 2025.04.25  |Jura 2009 Ruby Port 47.9%                           | 香茅 檸檬 葡萄 胭脂             | [Note](./Whisky/Jura/Jura_IB_2009_16yo_Ruby-Port_47-9/README.md) |
 | 2025.09.02 | 2025.04.25  |Inchgower 2010 Tawny Port                           | 撲鼻的蔓越莓 莓果調性  苦甜糖   | [Note](./Whisky/Inchgower/Inchgower_IB_NA_NA_Tawny-Port_NA/README.md) |
@@ -43,6 +44,13 @@
 </details>
 
 # Menu
+
+<details>
+<summary><a href=".\Bar\README.md">📁 Bar</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Bar\Barback\README.md">📄 Barback</a>
+
+</details>
 
 <details>
 <summary><a href=".\Gin\README.md">📁 Gin</a></summary>
