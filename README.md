@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2025.12.29 | 2025.12.29  |Glen Scotia Exclusive Cask 2010 10yo 1st Fill Heavy Char American Oak Barrel 55.8% | 荳蔻 辛香料 奶油 蜂蜜麵包 | [Note](./Whisky/Glen_Scotia/Glen-Scotia_OB_2010_10yo_1st-Barrel-(Heavy-Char)_55-8/README.md) |
 | 2025.12.18 | 2025.08.20  |CRAFT－196℃(クラフトイチキューロク)〈ひきたつ洋梨〉 | 真的滿西洋梨的，但還是有點點香精味  | [Note](./Beer/suntory/CRAFT－196℃(クラフトイチキューロク)〈ひきたつ洋梨〉/README.md) |
 | 2025.12.18 | 2023.08.18  |NA                                                  | 包覆酒精感的能力薄弱，香氣不夠奔放與持久    | [Note](./Bar/Barback/README.md) |
-| 2025.12.08 | 2023.07.16  |Loch Lomond Cask&Thistle 1995 27yo HHD 52%          | 輕飄的水果 夏天、陽光曬過的味道 | [Note](./Whisky/Loch_Lomond/Loch-Lomond_Cask-&-Thistle_1995_27yo_HHD_52-0/README.md) |
 
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2025.12.08 | 2023.07.16  |Loch Lomond Cask&Thistle 1995 27yo HHD 52%          | 輕飄的水果 夏天、陽光曬過的味道 | [Note](./Whisky/Loch_Lomond/Loch-Lomond_Cask-&-Thistle_1995_27yo_HHD_52-0/README.md) |
 | 2025.09.10 | 2025.09.10  |Highland Park Ór Sileis 1998 21yo HHD 54%           | 淡雅花香，小白花香系，蜂蜜糖水，像是木屋裡的壁爐烘烤  | [Note](./Whisky/Highland_Park/Highland-Park_Ór-Sileis_1998_21yo_HHD_54-0/README.md) |
 | 2025.09.09 | 2025.09.09  |The Pitcher's Reverse Bimber 2020 5yo Palo Cortado 59.2%   | 果乾、淡淡可可調性、烘焙堅果    | [Note](./Whisky/Bimber/Bimber_OB_2020_5yo_Palo-Cortado_59-2/README.md) |
 | 2025.09.04 | 2024.04.25  |Longmore 2010 14yo Barrel 51.2%                     | 輕飄的水果 夏天、陽光曬過的味道 | [Note](./Whisky/Longmorn/Longmorn_IB_2010_14yo_Barrel_51-2/README.md) |
@@ -113,6 +114,13 @@
 </details>
 
 <details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Bowmore\README.md">📂 Bowmore</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bowmore\海龍王\README.md">📄 海龍王</a>
+
+</details>
+
+<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Braeval\README.md">📂 Braeval</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Braeval\Braeval_OB_NA_26yo_NA_52-1\README.md">📄 Braeval_OB_NA_26yo_NA_52-1</a>
@@ -136,6 +144,13 @@
 </details>
 
 <details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Convalmore\README.md">📂 Convalmore</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Convalmore\CH\README.md">📄 CH</a>
+
+</details>
+
+<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Cooley\README.md">📂 Cooley</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Cooley\Cooley_WhiskyFind_2002_20yo_Barrel_56-1\README.md">📄 Cooley_WhiskyFind_2002_20yo_Barrel_56-1</a>
@@ -146,6 +161,17 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Croftengea\README.md">📂 Croftengea</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Croftengea\Croftengea_IB_2006_19yo_Olorosso-Sherry_53-1\README.md">📄 Croftengea_IB_2006_19yo_Olorosso-Sherry_53-1</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\README.md">📂 GlenRothes</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9\README.md">📄 Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md">📄 Glenrothes_WhiskyFind_1996_26yo_HHD_50-5</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9\README.md">📄 Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9</a>
 
 </details>
 
@@ -164,20 +190,26 @@
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\README.md">📂 Glenkinchie</a></summary>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Glen_Moray\README.md">📂 Glen_Moray</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2\README.md">📄 Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2</a>
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Moray\SMWS\README.md">📂 SMWS</a></summary>
+
+</details>
 
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\README.md">📂 Glenrothes</a></summary>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Glen_Scotia\README.md">📂 Glen_Scotia</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9\README.md">📄 Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Scotia\Glen-Scotia_OB_2010_10yo_1st-Barrel-(Heavy-Char)_55-8\README.md">📄 Glen-Scotia_OB_2010_10yo_1st-Barrel-(Heavy-Char)_55-8</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md">📄 Glenrothes_WhiskyFind_1996_26yo_HHD_50-5</a>
+</details>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9\README.md">📄 Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9</a>
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\README.md">📂 Glenkinchie</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2\README.md">📄 Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2</a>
 
 </details>
 
@@ -210,6 +242,13 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Jura\README.md">📂 Jura</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Jura\Jura_IB_2009_16yo_Ruby-Port_47-9\README.md">📄 Jura_IB_2009_16yo_Ruby-Port_47-9</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Linkwood\README.md">📂 Linkwood</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Linkwood\40\README.md">📄 40</a>
 
 </details>
 
