@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.01.01 | 2025.12.26  |Sea Dragon Bowmore 30yo 43%                         | 用薰衣草肥皂洗好太陽曬乾的衣服  | [Note](./Whisky/Bowmore/Bowmore_OB_Sea-Dragon_NA_30yo_NA_43-0/README.md) |
 | 2025.12.31 | 2023.08.29  |35.348 Glen Moray 2012 10yo 2nd Barrel 59.3%        | 橘皮 檸檬奶霜餅乾               | [Note](./Whisky/Glen_Moray/Glen-Moray_SMWS_2012_10yo_2nd-Barrel_59-3/README.md) |
 | 2025.12.29 | 2025.12.29  |Glen Scotia Exclusive Cask 2010 10yo 1st Fill Heavy Char American Oak Barrel 55.8% | 荳蔻 辛香料 奶油 蜂蜜麵包 | [Note](./Whisky/Glen_Scotia/Glen-Scotia_OB_2010_10yo_1st-Barrel-(Heavy-Char)_55-8/README.md) |
-| 2025.12.18 | 2025.08.20  |CRAFT－196℃(クラフトイチキューロク)〈ひきたつ洋梨〉 | 真的滿西洋梨的，但還是有點點香精味  | [Note](./Beer/suntory/CRAFT－196℃(クラフトイチキューロク)〈ひきたつ洋梨〉/README.md) |
 
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2025.12.18 | 2025.08.20  |CRAFT－196℃(クラフトイチキューロク)〈ひきたつ洋梨〉 | 真的滿西洋梨的，但還是有點點香精味  | [Note](./Beer/suntory/CRAFT－196℃(クラフトイチキューロク)〈ひきたつ洋梨〉/README.md) |
 | 2025.12.18 | 2023.08.18  |NA                                                  | 包覆酒精感的能力薄弱，香氣不夠奔放與持久    | [Note](./Bar/Barback/README.md) |
 | 2025.12.08 | 2023.07.16  |Loch Lomond Cask&Thistle 1995 27yo HHD 52%          | 輕飄的水果 夏天、陽光曬過的味道 | [Note](./Whisky/Loch_Lomond/Loch-Lomond_Cask-&-Thistle_1995_27yo_HHD_52-0/README.md) |
 | 2025.09.10 | 2025.09.10  |Highland Park Ór Sileis 1998 21yo HHD 54%           | 淡雅花香，小白花香系，蜂蜜糖水，像是木屋裡的壁爐烘烤  | [Note](./Whisky/Highland_Park/Highland-Park_Ór-Sileis_1998_21yo_HHD_54-0/README.md) |
@@ -117,7 +118,7 @@
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Bowmore\README.md">📂 Bowmore</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bowmore\海龍王\README.md">📄 海龍王</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bowmore\Bowmore_OB_Sea-Dragon_NA_30yo_NA_43-0\README.md">📄 Bowmore_OB_Sea-Dragon_NA_30yo_NA_43-0</a>
 
 </details>
 
