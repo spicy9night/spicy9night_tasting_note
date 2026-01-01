@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.01.01 | 2025.12.26  |Linkwood Gordon&MacPhail Celtic Series The Book of Kells 1970 40yo 42.6% | 一開始撲鼻的黑色李子 葡萄酒桶 泡泡膠 西洋梨 尾韻茶感 | [Note](./Whisky/Linkwood/Linkwood_Gordon&MacPhail_Celtic-Series-The-Book-of-Kells_1970_40yo_HHD_42-6/README.md) |
 | 2026.01.01 | 2025.12.26  |Convalmore Cadenhead's Original Collection 1977 20yo 46% | 一開始突出的塑膠味 後面尾韻帶有綠葉的調性  | [Note](./Whisky/Convalmore/Convalmore_Cadenhead-s_Original-Collection_1977_20yo_46-0/README.md) |
 | 2026.01.01 | 2025.12.26  |Sea Dragon Bowmore 30yo 43%                         | 用薰衣草肥皂洗好太陽曬乾的衣服  | [Note](./Whisky/Bowmore/Bowmore_OB_Sea-Dragon_NA_30yo_NA_43-0/README.md) |
-| 2025.12.31 | 2023.08.29  |35.348 Glen Moray 2012 10yo 2nd Barrel 59.3%        | 橘皮 檸檬奶霜餅乾               | [Note](./Whisky/Glen_Moray/Glen-Moray_SMWS_2012_10yo_2nd-Barrel_59-3/README.md) |
 
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2025.12.31 | 2023.08.29  |35.348 Glen Moray 2012 10yo 2nd Barrel 59.3%        | 橘皮 檸檬奶霜餅乾               | [Note](./Whisky/Glen_Moray/Glen-Moray_SMWS_2012_10yo_2nd-Barrel_59-3/README.md) |
 | 2025.12.29 | 2025.12.29  |Glen Scotia Exclusive Cask 2010 10yo 1st Fill Heavy Char American Oak Barrel 55.8% | 荳蔻 辛香料 奶油 蜂蜜麵包 | [Note](./Whisky/Glen_Scotia/Glen-Scotia_OB_2010_10yo_1st-Barrel-(Heavy-Char)_55-8/README.md) |
 | 2025.12.18 | 2025.08.20  |CRAFT－196℃(クラフトイチキューロク)〈ひきたつ洋梨〉 | 真的滿西洋梨的，但還是有點點香精味  | [Note](./Beer/suntory/CRAFT－196℃(クラフトイチキューロク)〈ひきたつ洋梨〉/README.md) |
 | 2025.12.18 | 2023.08.18  |NA                                                  | 包覆酒精感的能力薄弱，香氣不夠奔放與持久    | [Note](./Bar/Barback/README.md) |
@@ -248,7 +249,7 @@
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Linkwood\README.md">📂 Linkwood</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Linkwood\40\README.md">📄 40</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Linkwood\Linkwood_Gordon&MacPhail_Celtic-Series-The-Book-of-Kells_1970_40yo_HHD_42-6\README.md">📄 Linkwood_Gordon&MacPhail_Celtic-Series-The-Book-of-Kells_1970_40yo_HHD_42-6</a>
 
 </details>
 
