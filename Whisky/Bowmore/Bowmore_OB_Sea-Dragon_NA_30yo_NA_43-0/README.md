@@ -7,6 +7,19 @@
 ### 【評分】90  
 ### 【價格】1100/30ml
 
+### **Nose**
+
+Initially, this dram is quite bold and "funky," carrying a heavy **reductive sulfur** note reminiscent of natural wines or boiled eggs. However, with patience, it evolves into a complex layer of **durian** and **sour cream**. As it breathes, delicate **floral undertones** emerge, followed by a savory touch of **salted croissants** and a clean, **soapy fragrance**.
+
+### **Taste**
+
+The mouthfeel is impressively **oily and full-bodied**. It leads with a distinct **lavender soap** quality—reminiscent of the crisp, nostalgic scent of **freshly laundered clothes** dried in the sun. This clean, "new fabric" sensation is eventually joined by a steady wave of **dried fruit sweetness** that rounds out the palate.
+
+### **Finish**
+
+A true exercise in patience. To be honest, it’s a rough start, but it transforms beautifully if you give it the time it needs. What remains is a **subtle, silky-smooth soapiness** with a perfectly balanced **oily texture**. It’s an understated and mellow finish that rewards the persistent drinker.
+
+
 #bowmore
 #whisky
 #whiskylover
