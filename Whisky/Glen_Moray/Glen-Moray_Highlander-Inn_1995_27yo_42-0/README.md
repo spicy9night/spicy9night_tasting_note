@@ -1,7 +1,7 @@
-# Glen Moray Highlander Inn 1995 27yo 42%
+# 台灣限定版 Glen Moray Highlander Inn 1995 27yo 42%
 
 ### 【結語】清澈如水
-### 【日期】2025.11.22
+### 【日期】2025.11.22 @高雄酒展
 
 ### 官方介紹
 
