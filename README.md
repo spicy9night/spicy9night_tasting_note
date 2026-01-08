@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.01.08 | 2025.11.22  | 2023年度典藏 Auchentoshan Highlander Inn 1997 26yo Bourbon 49.2% | 小花、玉蘭花  | [Note](./Whisky/Auchentoshan/Auchentoshan_Highlander-Inn_2023年度典藏_1997_26yo_Bourbon_49-2/README.md) |
 | 2026.01.07 | 2025.11.22  |Cask Strength Collection #02 Glen Garioch Duckhammer's Rare & Fine Spirits 2010 15yo Oloroso Sherry 53.3% | 火烤咖啡豆 堅果酒桶| [Note](./Whisky/Glen_Garioch/Glen-Garioch_Duckhammer-s-Rare&Fine-Spirits_Cask-Strength-Collection02_2010_2025yo_Oloroso-Sherry_53-3/README.md) |
 | 2026.01.06 | 2025.11.22  |台灣限定版 Glen Moray Highlander Inn 1995 27yo 42%  | 清澈如水                        | [Note](./Whisky/Glen_Moray/Glen-Moray_Highlander-Inn_1995_27yo_42-0/README.md) |
-| 2026.01.05 | 2025.11.22  |Ardbeg The Whisky Exchange The Decades 2000 22yo Heavy Charred Ex-Jack Daniel's Barrel 53.4% | 桃子灰燼  | [Note](./Whisky/Ardbeg/Ardbeg_The-Whisky-Exchange_The-Decades_2000_22yo_Heavy-Char-Ex-Jack-Daniel's-Barrels_53-4/README.md) |
 
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.01.05 | 2025.11.22  |Ardbeg The Whisky Exchange The Decades 2000 22yo Heavy Charred Ex-Jack Daniel's Barrel 53.4% | 桃子灰燼  | [Note](./Whisky/Ardbeg/Ardbeg_The-Whisky-Exchange_The-Decades_2000_22yo_Heavy-Char-Ex-Jack-Daniel's-Barrels_53-4/README.md) |
 | 2026.01.04 | 2025.11.22  |第十五章 Glen Keith WhiskyFind 不朽之歌 1998 26y Bourbon 51.8% | 青草 麵粉 胭脂  | [Note](./Whisky/Glen_Keith/Glen-Keith_WhiskyFind_不朽之歌_第十五章_1998_26yo_Bourbon_51-8/README.md) |
 | 2026.01.01 | 2025.12.26  |Linkwood Gordon&MacPhail Celtic Series The Book of Kells 1970 40yo 42.6% | 一開始撲鼻的黑色李子 葡萄酒桶 泡泡膠 西洋梨 尾韻茶感 | [Note](./Whisky/Linkwood/Linkwood_Gordon&MacPhail_Celtic-Series-The-Book-of-Kells_1970_40yo_HHD_42-6/README.md) |
 | 2026.01.01 | 2025.12.26  |Convalmore Cadenhead's Original Collection 1977 20yo 46% | 一開始突出的塑膠味 後面尾韻帶有綠葉的調性  | [Note](./Whisky/Convalmore/Convalmore_Cadenhead-s_Original-Collection_1977_20yo_46-0/README.md) |
@@ -96,6 +97,13 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Ardbeg\README.md">📂 Ardbeg</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Ardbeg\Ardbeg_The-Whisky-Exchange_The-Decades_2000_22yo_Heavy-Char-Ex-Jack-Daniel's-Barrels_53-4\README.md">📄 Ardbeg_The-Whisky-Exchange_The-Decades_2000_22yo_Heavy-Char-Ex-Jack-Daniel's-Barrels_53-4</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Auchentoshan\README.md">📂 Auchentoshan</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Auchentoshan\Auchentoshan_Highlander-Inn_2023年度典藏_1997_26yo_Bourbon_49-2\README.md">📄 Auchentoshan_Highlander-Inn_2023年度典藏_1997_26yo_Bourbon_49-2</a>
 
 </details>
 
