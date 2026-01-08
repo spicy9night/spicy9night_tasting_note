@@ -12,6 +12,7 @@
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.01.04 | 2025.11.22  |第十五章 Glen Keith WhiskyFind 不朽之歌 1998 26y Bourbon 51.8% | 青草 麵粉 胭脂  | [Note](./Whisky/Glen_Keith/Glen-Keith_WhiskyFind_不朽之歌_第十五章_1998_26yo_Bourbon_51-8/README.md) |
 | 2026.01.01 | 2025.12.26  |Linkwood Gordon&MacPhail Celtic Series The Book of Kells 1970 40yo 42.6% | 一開始撲鼻的黑色李子 葡萄酒桶 泡泡膠 西洋梨 尾韻茶感 | [Note](./Whisky/Linkwood/Linkwood_Gordon&MacPhail_Celtic-Series-The-Book-of-Kells_1970_40yo_HHD_42-6/README.md) |
 | 2026.01.01 | 2025.12.26  |Convalmore Cadenhead's Original Collection 1977 20yo 46% | 一開始突出的塑膠味 後面尾韻帶有綠葉的調性  | [Note](./Whisky/Convalmore/Convalmore_Cadenhead-s_Original-Collection_1977_20yo_46-0/README.md) |
 | 2026.01.01 | 2025.12.26  |Sea Dragon Bowmore 30yo 43%                         | 用薰衣草肥皂洗好太陽曬乾的衣服  | [Note](./Whisky/Bowmore/Bowmore_OB_Sea-Dragon_NA_30yo_NA_43-0/README.md) |
@@ -179,6 +180,17 @@
 </details>
 
 <details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\README.md">📂 GlenRothes</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9\README.md">📄 Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md">📄 Glenrothes_WhiskyFind_1996_26yo_HHD_50-5</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9\README.md">📄 Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9</a>
+
+</details>
+
+<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glen_Elgin\README.md">📂 Glen_Elgin</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Elgin\Glen-Elgin_WhiskyFind_2010_13yo_Oloroso-barrique_54-8\README.md">📄 Glen-Elgin_WhiskyFind_2010_13yo_Oloroso-barrique_54-8</a>
@@ -196,6 +208,8 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glen_Keith\README.md">📂 Glen_Keith</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Keith\Glen-Keith_OB_NA_31yo_NA_48-9\README.md">📄 Glen-Keith_OB_NA_31yo_NA_48-9</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Keith\Glen-Keith_WhiskyFind_不朽之歌_第十五章_1998_26yo_Bourbon_51-8\README.md">📄 Glen-Keith_WhiskyFind_不朽之歌_第十五章_1998_26yo_Bourbon_51-8</a>
 
 </details>
 
@@ -219,17 +233,6 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\README.md">📂 Glenkinchie</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2\README.md">📄 Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2</a>
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\README.md">📂 Glenrothes</a></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9\README.md">📄 Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md">📄 Glenrothes_WhiskyFind_1996_26yo_HHD_50-5</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9\README.md">📄 Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9</a>
 
 </details>
 
@@ -366,33 +369,6 @@
 
 <details>
 <summary><a href=".\自製梅酒\README.md">📁 自製梅酒</a></summary>
-
-<details>
-<summary>&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2023\README.md">📂 bottled_2023</a></summary>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2023\Plantation_普雷森黑蘭姆\README.md">📂 Plantation_普雷森黑蘭姆</a></summary>
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2023\伏特加_Vodka\README.md">📂 伏特加_Vodka</a></summary>
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2023\玉山蘭姆\README.md">📂 玉山蘭姆</a></summary>
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2023\米酒頭\README.md">📂 米酒頭</a></summary>
-
-</details>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2023\野格Jagermeister\README.md">📄 野格Jagermeister</a>
-
-</details>
 
 <details>
 <summary>&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2025\README.md">📂 bottled_2025</a></summary>
