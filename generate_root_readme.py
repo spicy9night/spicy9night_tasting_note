@@ -67,8 +67,12 @@ def get_tasting_info(readme_path):
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
     lines = content.split('\n')
-    title = lines[0].strip('# ').strip()
+    title = ""
     tasting_date = None
+    for line in lines:
+        if line.startswith('# '):
+            title = line.strip('# ').strip()
+            break
     flavor_parts = []
     for line in lines:
         if '### 【日期】' in line:
