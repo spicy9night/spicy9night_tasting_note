@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.01.12 | 2026.01.09  | Symphonie des Terroirs N°2 Jean-Luc Pasquet Cognac 40yo 48.8% | 百香果 鳳梨 有一點利口的新鮮水果味 肉桂 密蘋果 也是有點水水的 鳳梨罐頭汁 福壽山蘋果 滿滿的蜜水果的味道 可惜酒體跟尾韻稍稍淡薄 | [Note](./Brandy/Jean-Luc-Pasquet/Jean-Luc-Pasquet_Jean-Luc-Pasquet_Cognac_Symphonie-des-Terroirs-N°2_40yo_48.8/README.md) |
 | 2026.01.11 | 2026.01.09  | Maltbarn Vallein Tercinier Bons Bois 1988 33yo 47% | 水果 一點點木頭香 放很久有花香 櫻桃 水掉了 尾韻淡薄 味道很棒 但是口感的味道水了很多 尾韻咻一下就沒了 | [Note](./Brandy/Maltbarn/Maltbarn_Vallein-Tercinier_Bons-Bois_1988_33yo_47/README.md) |
 | 2026.01.08 | 2025.11.22  | 2023年度典藏 Auchentoshan Highlander Inn 1997 26yo Bourbon 49.2% | 小花、玉蘭花 | [Note](./Whisky/Auchentoshan/Auchentoshan_Highlander-Inn_2023年度典藏_1997_26yo_Bourbon_49-2/README.md) |
-| 2026.01.07 | 2025.11.22  | Cask Strength Collection #02 Glen Garioch Duckhammer's Rare & Fine Spirits 2010 15yo Oloroso Sherry 53.3% | 火烤咖啡豆 堅果酒桶 | [Note](./Whisky/Glen_Garioch/Glen-Garioch_Duckhammer-s-Rare&Fine-Spirits_Cask-Strength-Collection02_2010_2025yo_Oloroso-Sherry_53-3/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.01.07 | 2025.11.22  | Cask Strength Collection #02 Glen Garioch Duckhammer's Rare & Fine Spirits 2010 15yo Oloroso Sherry 53.3% | 火烤咖啡豆 堅果酒桶 | [Note](./Whisky/Glen_Garioch/Glen-Garioch_Duckhammer-s-Rare&Fine-Spirits_Cask-Strength-Collection02_2010_2025yo_Oloroso-Sherry_53-3/README.md) |
 | 2026.01.06 | 2025.11.22  | 台灣限定版 Glen Moray Highlander Inn 1995 27yo 42% | 清澈如水 | [Note](./Whisky/Glen_Moray/Glen-Moray_Highlander-Inn_1995_27yo_42-0/README.md) |
 | 2026.01.05 | 2025.11.22  | Ardbeg The Whisky Exchange The Decades 2000 22yo Heavy Charred Ex-Jack Daniel's Barrel 53.4% | 桃子灰燼 | [Note](./Whisky/Ardbeg/Ardbeg_The-Whisky-Exchange_The-Decades_2000_22yo_Heavy-Char-Ex-Jack-Daniel's-Barrels_53-4/README.md) |
 | 2026.01.04 | 2025.11.22  | 第十五章 Glen Keith WhiskyFind 不朽之歌 1998 26y Bourbon 51.8% | 青草 麵粉 胭脂 | [Note](./Whisky/Glen_Keith/Glen-Keith_WhiskyFind_不朽之歌_第十五章_1998_26yo_Bourbon_51-8/README.md) |
@@ -79,6 +80,13 @@
 
 <details>
 <summary><a href=".\Brandy\README.md">📁 Brandy</a></summary>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Brandy\Jean-Luc-Pasquet\README.md">📂 Jean-Luc-Pasquet</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Brandy\Jean-Luc-Pasquet\Jean-Luc-Pasquet_Jean-Luc-Pasquet_Cognac_Symphonie-des-Terroirs-N°2_40yo_48.8\README.md">📄 Jean-Luc-Pasquet_Jean-Luc-Pasquet_Cognac_Symphonie-des-Terroirs-N°2_40yo_48.8</a>
+
+</details>
 
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Brandy\Maltbarn\README.md">📂 Maltbarn</a></summary>
