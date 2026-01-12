@@ -30,7 +30,7 @@
 #whiskyage
 #whiskyblue
 #symphoniedesterroirsn°2
-#jean-lucpasquetnier
+#jeanlucpasquet
 #brandy
 #cognac
 #spicy9night

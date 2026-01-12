@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.01.13 | 2026.01.09  | No.082 Jean-Luc Pasquet Jean-Luc Pasquet Grande Champagne 1970 50yo 58.2% | 玉米汁 龍眼 辛香料 酒體燒濁 蜜香紅茶 辛香料太多了 | [Note](./Brandy/Jean-Luc-Pasquet/Jean-Luc-Pasquet_Jean-Luc-Pasquet_Grande-Champagne_No.082_1970_50yo_58.2/README.md) |
 | 2026.01.13 | 2026.01.09  | Les Bons Vivants 2 Malternative Belgium Cognac Grosperrin Petite Champagne 1973 50yo 53.6% | 甘草糖 中藥味 花雕雞 藥膳酒 藥膳湯 | [Note](./Brandy/Malternative_Belgium/Malternative-Belgium_Cognac-Grosperrin_Petite-Champagne_Les-Bons-Vivants-2_1973_50yo_53.6/README.md) |
 | 2026.01.13 | 2026.01.09  | Malternative Belgium Petite Champagne 1989 34yo 57.4% | 去光水 泡泡膠 新鮮木頭 水梨 有一個海鮮的鮮甜 油脂感很棒 umami 尾韻有個芭樂味 酷 味道嗆辣 去光水 但是喝下去很舒服 味道酒體都好 | [Note](./Brandy/Malternative_Belgium/Malternative-Belgium_Petite-Champagne_1989_34yo_57.4/README.md) |
-| 2026.01.13 | 2026.01.09  | Maltbarn 236 Maltbarn Vallein Tercinier Fins Bois 1989 35yo 54.2% | 沉香 葡萄乾 太妃糖 烏梅汁 酒體飽滿 螢火蟲之墓水果糖 酒體飽滿深得我心 濃郁黑色水果我的菜越有趣 | [Note](./Brandy/Maltbarn/Maltbarn_Vallein-Tercinier_Fins-Bois_Maltbarn-236_1989_35yo_54.2/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.01.13 | 2026.01.09  | Maltbarn 236 Maltbarn Vallein Tercinier Fins Bois 1989 35yo 54.2% | 沉香 葡萄乾 太妃糖 烏梅汁 酒體飽滿 螢火蟲之墓水果糖 酒體飽滿深得我心 濃郁黑色水果我的菜越有趣 | [Note](./Brandy/Maltbarn/Maltbarn_Vallein-Tercinier_Fins-Bois_Maltbarn-236_1989_35yo_54.2/README.md) |
 | 2026.01.12 | 2026.01.09  | Symphonie des Terroirs N°2 Jean-Luc Pasquet Cognac 40yo 48.8% | 百香果 鳳梨 有一點利口的新鮮水果味 肉桂 密蘋果 也是有點水水的 鳳梨罐頭汁 福壽山蘋果 滿滿的蜜水果的味道 可惜酒體跟尾韻稍稍淡薄 | [Note](./Brandy/Jean-Luc-Pasquet/Jean-Luc-Pasquet_Jean-Luc-Pasquet_Cognac_Symphonie-des-Terroirs-N°2_40yo_48.8/README.md) |
 | 2026.01.11 | 2026.01.09  | Maltbarn Vallein Tercinier Bons Bois 1988 33yo 47% | 水果 一點點木頭香 放很久有花香 櫻桃 水掉了 尾韻淡薄 味道很棒 但是口感的味道水了很多 尾韻咻一下就沒了 | [Note](./Brandy/Maltbarn/Maltbarn_Vallein-Tercinier_Bons-Bois_1988_33yo_47/README.md) |
 | 2026.01.08 | 2025.11.22  | 2023年度典藏 Auchentoshan Highlander Inn 1997 26yo Bourbon 49.2% | 小花、玉蘭花 | [Note](./Whisky/Auchentoshan/Auchentoshan_Highlander-Inn_2023年度典藏_1997_26yo_Bourbon_49-2/README.md) |
@@ -88,6 +89,8 @@
 <summary>&nbsp;&nbsp;<a href=".\Brandy\Jean-Luc-Pasquet\README.md">📂 Jean-Luc-Pasquet</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Brandy\Jean-Luc-Pasquet\Jean-Luc-Pasquet_Jean-Luc-Pasquet_Cognac_Symphonie-des-Terroirs-N°2_40yo_48.8\README.md">📄 Jean-Luc-Pasquet_Jean-Luc-Pasquet_Cognac_Symphonie-des-Terroirs-N°2_40yo_48.8</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Brandy\Jean-Luc-Pasquet\Jean-Luc-Pasquet_Jean-Luc-Pasquet_Grande-Champagne_No.082_1970_50yo_58.2\README.md">📄 Jean-Luc-Pasquet_Jean-Luc-Pasquet_Grande-Champagne_No.082_1970_50yo_58.2</a>
 
 </details>
 
