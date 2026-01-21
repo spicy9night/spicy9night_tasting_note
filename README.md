@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.01.22 | 2025.11.22 @高雄酒展  | Chilli-flavoured ice cream Mortlach SMWS 1983 14yo HHD 54.2% | 醬汁汽水 | [Note](./Whisky/Mortlach/Mortlach_SMWS_Chilli-flavoured-ice-cream_1983_14yo_HHD_54-2/README.md) |
 | 2026.01.21 | 2025.11.22 @高雄酒展  | Cask Le Sens Springbank Whisky Concerto 1993 31yo 2nd Fill Oloroso Octave 44.3% | 霧峰葡萄 | [Note](./Whisky/Springbank/Springbank_Whisky-Concerto_Cask-Le-Sens_1993_31yo_2nd-Fill-Oloroso-Octave_44-3/README.md) |
 | 2026.01.19 | 2025.11.22 @高雄酒展  | Whisky Mew_攻殻機動隊 草薙素子 Littlemill Hideo Yamaoka 1988 35yo HHD 51% | 充滿果香。草莓果醬、蘋果乾、年份香檳。蜂蜜蛋糕烤焦的部分。塗了清漆的古董家具。 最初帶有苦韻與熱感。宜人的木質調。無花果、芒果乾、過熟的水果。略帶些許陳年粉塵感，但尾韻悠長。加水稀釋後口感會變得清爽，但層次感依然厚實不減。 經典的濃郁青草味搭配水果 | [Note](./Whisky/Littlemill/Littlemill_Hideo-Yamaoka_Whisky-Mew_攻殻機動隊-草薙素子_1988_35yo_HHD_51-0/README.md) |
-| 2026.01.13 | 2026.01.09  | The Whisky Jury Cognac Famille Cabanne Petite Champagne 1968 55yo 55.7% | 土味 有點泥煤 酸甜 喝完的酸梅湯、烏梅汁尾韻 有點花生的油脂與香氣 | [Note](./Brandy/The_Whisky_Jury/The-Whisky-Jury_Cognac-Famille-Cabanne_Petite-Champagne_1968_55yo_55.7/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.01.13 | 2026.01.09  | The Whisky Jury Cognac Famille Cabanne Petite Champagne 1968 55yo 55.7% | 土味 有點泥煤 酸甜 喝完的酸梅湯、烏梅汁尾韻 有點花生的油脂與香氣 | [Note](./Brandy/The_Whisky_Jury/The-Whisky-Jury_Cognac-Famille-Cabanne_Petite-Champagne_1968_55yo_55.7/README.md) |
 | 2026.01.13 | 2026.01.09  | No.082 Jean-Luc Pasquet Jean-Luc Pasquet Grande Champagne 1970 50yo 58.2% | 玉米汁 龍眼 辛香料 酒體燒濁 蜜香紅茶 辛香料太多了 | [Note](./Brandy/Jean-Luc-Pasquet/Jean-Luc-Pasquet_Jean-Luc-Pasquet_Grande-Champagne_No.082_1970_50yo_58.2/README.md) |
 | 2026.01.13 | 2026.01.09  | Les Bons Vivants 2 Malternative Belgium Cognac Grosperrin Petite Champagne 1973 50yo 53.6% | 甘草糖 中藥味 花雕雞 藥膳酒 藥膳湯 | [Note](./Brandy/Malternative_Belgium/Malternative-Belgium_Cognac-Grosperrin_Petite-Champagne_Les-Bons-Vivants-2_1973_50yo_53.6/README.md) |
 | 2026.01.13 | 2026.01.09  | Malternative Belgium Petite Champagne 1989 34yo 57.4% | 去光水 泡泡膠 新鮮木頭 水梨 有一個海鮮的鮮甜 油脂感很棒 umami 尾韻有個芭樂味 酷 味道嗆辣 去光水 但是喝下去很舒服 味道酒體都好 | [Note](./Brandy/Malternative_Belgium/Malternative-Belgium_Petite-Champagne_1989_34yo_57.4/README.md) |
@@ -360,6 +361,13 @@
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Longmorn\Longmorn_Thompson-Bro-s_2011_11yo_First-Fill-Barrel_53-5\README.md">📂 Longmorn_Thompson-Bro-s_2011_11yo_First-Fill-Barrel_53-5</a></summary>
 
 </details>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Mortlach\README.md">📂 Mortlach</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Mortlach\Mortlach_SMWS_Chilli-flavoured-ice-cream_1983_14yo_HHD_54-2\README.md">📄 Mortlach_SMWS_Chilli-flavoured-ice-cream_1983_14yo_HHD_54-2</a>
 
 </details>
 
