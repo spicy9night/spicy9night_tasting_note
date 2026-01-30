@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.01.30 | 2025.11.22 @高雄酒展  | 老夫子 Glen Elgin HKWHISKY 2010 11yo Refill Sherry Butt 54.2% | 清冰 茉莉花 杜松子 | [Note](./Whisky/Glen_Elgin/Glen-Elgin_HKWHISKY_老夫子_2010_11yo_Refill-Sherry-Butt_54-2/README.md) |
 | 2026.01.25 | 2025.11.22 @高雄酒展  | Finest Selection Clynelish Casky 1996 28yo Refill Bourbon HHD 49.9% | 充滿了經典的蜂蠟、石蠟與粉蠟筆質感。隨之而來的是青蘋果汁、檸檬皮，以及淡淡的香草與花蜜香。 強而有力且質地豐富，带有標誌性的蠟感 (Waxy)。鹹鮮的礦石感 (Chalky) 與柑橘果香交織，展現出絕佳的平衡感。 非常悠長，帶有些許海風的鹹感、草本（如茴香）以及果醬的回甘。 | [Note](./Whisky/Clynelish/Clynelish_Casky_Finest-Selection_1996_28yo_Refill-Bourbon-HHD_49-9/README.md) |
 | 2026.01.25 | 2025.11.22 @高雄酒展  | The Taste of Friendship Imperial Casky 1998 27yo Barrel 48.2% | 蜜糖蓮子 剉冰蓮子 | [Note](./Whisky/Imperial/Imperial_Casky_The-Taste-of-Friendship_1998_27yo_Barrel_48-2/README.md) |
-| 2026.01.25 | 2025.11.22 @高雄酒展  | Finest Selection Littlemill Casky 1989 33yo HHD 50.2% | 濃郁奶油 | [Note](./Whisky/Littlemill/Littlemill_Casky_Finest-Selection_1989_33yo_HHD_50-2/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.01.25 | 2025.11.22 @高雄酒展  | Finest Selection Littlemill Casky 1989 33yo HHD 50.2% | 濃郁奶油 | [Note](./Whisky/Littlemill/Littlemill_Casky_Finest-Selection_1989_33yo_HHD_50-2/README.md) |
 | 2026.01.25 | 2025.11.22 @高雄酒展  | Finest Selection Macallan Casky 1993 30yo Sherry HHD 44.9% | 濃郁水果糖 木質  紅木 檜木 | [Note](./Whisky/Macallan/Macallan_Casky_Finest-Selection_1993_30yo_Sherry-HHD_44-9/README.md) |
 | 2026.01.25 | 2025.11.22 @高雄酒展  | The Taste of Friendship Ben Nevis Casky 1996 28yo HHD 44.9% | 紅心芭樂 香水 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_Casky_The-Taste-of-Friendship_1996_28yo_HHD_44-9/README.md) |
 | 2026.01.24 | 2025.11.22 @高雄酒展  | Rare Malts Selection Glendullan OB 1978 26yo 56.6% | 桃花木 木質柚木 鹼粽加果糖甜蜜感 | [Note](./Whisky/Glendullan/Glendullan_OB_Rare-Malts-Selection_1978_26yo_56-6/README.md) |
@@ -259,6 +260,8 @@
 
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glen_Elgin\README.md">📂 Glen_Elgin</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Elgin\Glen-Elgin_HKWHISKY_老夫子_2010_11yo_Refill-Sherry-Butt_54-2\README.md">📄 Glen-Elgin_HKWHISKY_老夫子_2010_11yo_Refill-Sherry-Butt_54-2</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Elgin\Glen-Elgin_WhiskyFind_2010_13yo_Oloroso-barrique_54-8\README.md">📄 Glen-Elgin_WhiskyFind_2010_13yo_Oloroso-barrique_54-8</a>
 
