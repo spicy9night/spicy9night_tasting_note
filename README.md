@@ -3,15 +3,17 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.01.31 | 2025.11.22 @高雄酒展  | 老夫子 Blair Athol HKWHISKY 2010 11yo Refill Sherry Butt 53.8% | 花香、桃子與巧克力的香甜 | [Note](./Whisky/Blair_Athol/Blair-Athol_HKWHISKY_老夫子_2010_11yo_Refill-Sherry-Butt_53-8/README.md) |
+| 2026.01.31 | 2025.11.22 @高雄酒展  | 老夫子 Bowmore HKWHISKY 1997 22yo Refill Sherry Butt 52.6% | 亞麻仁油以及檸檬喉糖的香氣；隨後轉化為番茄、無花果葉與新鮮杏仁的層次 未加水時展現出極其活潑的柑橘感與鹹味，質地如油脂般包覆口腔。加水後則帶出完美的海邊鹹感與熱帶果皮香氣，並有鹽漬甘草的風味 餘韻悠長且帶有油潤感，結尾呈現煙燻魚肉、甘草，甚至帶有些許苦艾酒與梅斯卡爾酒 (Mezcal) 的獨特反轉 | [Note](./Whisky/Bowmore/Bowmore_HKWHISKY_老夫子_1997_22yo_Refill-Sherry-Butt_52-6/README.md) |
 | 2026.01.30 | 2025.11.22 @高雄酒展  | 老夫子 Glen Elgin HKWHISKY 2010 11yo Refill Sherry Butt 54.2% | 清冰 茉莉花 杜松子 | [Note](./Whisky/Glen_Elgin/Glen-Elgin_HKWHISKY_老夫子_2010_11yo_Refill-Sherry-Butt_54-2/README.md) |
-| 2026.01.25 | 2025.11.22 @高雄酒展  | Finest Selection Clynelish Casky 1996 28yo Refill Bourbon HHD 49.9% | 充滿了經典的蜂蠟、石蠟與粉蠟筆質感。隨之而來的是青蘋果汁、檸檬皮，以及淡淡的香草與花蜜香。 強而有力且質地豐富，带有標誌性的蠟感 (Waxy)。鹹鮮的礦石感 (Chalky) 與柑橘果香交織，展現出絕佳的平衡感。 非常悠長，帶有些許海風的鹹感、草本（如茴香）以及果醬的回甘。 | [Note](./Whisky/Clynelish/Clynelish_Casky_Finest-Selection_1996_28yo_Refill-Bourbon-HHD_49-9/README.md) |
-| 2026.01.25 | 2025.11.22 @高雄酒展  | The Taste of Friendship Imperial Casky 1998 27yo Barrel 48.2% | 蜜糖蓮子 剉冰蓮子 | [Note](./Whisky/Imperial/Imperial_Casky_The-Taste-of-Friendship_1998_27yo_Barrel_48-2/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.01.25 | 2025.11.22 @高雄酒展  | Finest Selection Clynelish Casky 1996 28yo Refill Bourbon HHD 49.9% | 充滿了經典的蜂蠟、石蠟與粉蠟筆質感。隨之而來的是青蘋果汁、檸檬皮，以及淡淡的香草與花蜜香。 強而有力且質地豐富，带有標誌性的蠟感 (Waxy)。鹹鮮的礦石感 (Chalky) 與柑橘果香交織，展現出絕佳的平衡感。 非常悠長，帶有些許海風的鹹感、草本（如茴香）以及果醬的回甘。 | [Note](./Whisky/Clynelish/Clynelish_Casky_Finest-Selection_1996_28yo_Refill-Bourbon-HHD_49-9/README.md) |
+| 2026.01.25 | 2025.11.22 @高雄酒展  | The Taste of Friendship Imperial Casky 1998 27yo Barrel 48.2% | 蜜糖蓮子 剉冰蓮子 | [Note](./Whisky/Imperial/Imperial_Casky_The-Taste-of-Friendship_1998_27yo_Barrel_48-2/README.md) |
 | 2026.01.25 | 2025.11.22 @高雄酒展  | Finest Selection Littlemill Casky 1989 33yo HHD 50.2% | 濃郁奶油 | [Note](./Whisky/Littlemill/Littlemill_Casky_Finest-Selection_1989_33yo_HHD_50-2/README.md) |
 | 2026.01.25 | 2025.11.22 @高雄酒展  | Finest Selection Macallan Casky 1993 30yo Sherry HHD 44.9% | 濃郁水果糖 木質  紅木 檜木 | [Note](./Whisky/Macallan/Macallan_Casky_Finest-Selection_1993_30yo_Sherry-HHD_44-9/README.md) |
 | 2026.01.25 | 2025.11.22 @高雄酒展  | The Taste of Friendship Ben Nevis Casky 1996 28yo HHD 44.9% | 紅心芭樂 香水 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_Casky_The-Taste-of-Friendship_1996_28yo_HHD_44-9/README.md) |
@@ -201,7 +203,16 @@
 </details>
 
 <details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Blair Athol\README.md">📂 Blair Athol</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Blair Athol\Blair-Athol_HKWHISKY_老夫子_2010_11yo_Refill-Sherry-Butt_53-8\README.md">📄 Blair-Athol_HKWHISKY_老夫子_2010_11yo_Refill-Sherry-Butt_53-8</a>
+
+</details>
+
+<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Bowmore\README.md">📂 Bowmore</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bowmore\Bowmore_HKWHISKY_老夫子_1997_22yo_Refill-Sherry-Butt_52-6\README.md">📄 Bowmore_HKWHISKY_老夫子_1997_22yo_Refill-Sherry-Butt_52-6</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bowmore\Bowmore_OB_Sea-Dragon_NA_30yo_NA_43-0\README.md">📄 Bowmore_OB_Sea-Dragon_NA_30yo_NA_43-0</a>
 
