@@ -56,8 +56,23 @@ def replace_menu_section(readme_path, toc_md):
 
     print(f"✅ 已更新 {readme_path} 中的 # Menu 區塊")
 
+def has_exif(file_path):
+    """檢查照片是否有 EXIF 資料"""
+    try:
+        exif_dict = piexif.load(file_path)
+        # 檢查是否有任何 EXIF 資料
+        for ifd in exif_dict.values():
+            if ifd:
+                return True
+        return False
+    except:
+        return False
+
 def remove_exif_from_image(file_path):
     try:
+        if not has_exif(file_path):
+            # print(f"⏭️ 跳過（無EXIF）: {file_path}")
+            return
         piexif.remove(file_path)
         print(f"✅ 已移除 EXIF: {file_path}")
     except Exception as e:
@@ -169,7 +184,7 @@ if __name__ == "__main__":
                 print(f"Flavor summary: {flavor}")
                 print(f"Path: {rel_path}")
                 print("Reason: This README.md file was not found in the current history table.")
-                confirm = input("Add this to the update history? (y/n): ").strip().lower()
+                confirm = input("Add this to the update history? (y/n, default: y): ").strip().lower() or 'y'
                 if confirm == 'y':
                     entry = {
                         'add_date': current_date,
