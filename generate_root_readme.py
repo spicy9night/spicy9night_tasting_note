@@ -167,9 +167,9 @@ if __name__ == "__main__":
     
     # Get existing links
     existing_links = {re.sub(r'^\[Note\]\((.*)\)$', r'\1', e['link']) for e in existing_entries}
-    print("Existing links:")
-    for link in sorted(existing_links):
-        print(f"  {link}")
+    # print("Existing links:")
+    # for link in sorted(existing_links):
+    #     print(f"  {link}")
     
     # Find new entries
     confirmed_new_entries = []
