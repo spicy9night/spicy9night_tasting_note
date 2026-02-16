@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.02.17 | 2025.11.22 @高雄酒展  | Ballindalloch OB 2015 9yo Sherry Butt 61.7% | 初次雪莉桶帶來的乾果、核桃與黑巧克力感非常直接。 61.7% 衝擊力強，酒體紮實。前段為葡萄乾甜感，中後段出現可可碎片的微苦與木質香氣。 木質香氣與油脂感留存時間長。 | [Note](./Whisky/Ballindalloch/Ballindalloch_OB_2015_9yo_Sherry-Butt_61-7/README.md) |
 | 2026.02.16 | 2025.11.22 @高雄酒展  | Single Cask Ballindalloch OB 2016 8yo 1st Bourbon 60.5% | 淡淡櫻花 | [Note](./Whisky/Ballindalloch/Ballindalloch_OB_ Single-Cask_2016_8yo_1st-Bourbon_60-5/README.md) |
 | 2026.02.13 | 2025.11.22 @高雄酒展  | The Absolute Choice Caol Ila Cadenhead's 33yo 56.6% | 燒花的泥煤 | [Note](./Whisky/Caol_Ila/Caol-Ila_Cadenhead-s_The-Absolute-Choice_33yo_56-6/README.md) |
-| 2026.02.13 | 2025.11.22 @高雄酒展  | 21.28 Glenglassaugh SMWS 1974 37yo Refill Bourbon HHD 48.1% | 舊書店 太妃糖 奶油 蜂蜜檸檬 | [Note](./Whisky/Glenglassaugh/Glenglassaugh_SMWS_21.28_1974_37yo_Refill-Bourbon-HHD_48-1/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.02.13 | 2025.11.22 @高雄酒展  | 21.28 Glenglassaugh SMWS 1974 37yo Refill Bourbon HHD 48.1% | 舊書店 太妃糖 奶油 蜂蜜檸檬 | [Note](./Whisky/Glenglassaugh/Glenglassaugh_SMWS_21.28_1974_37yo_Refill-Bourbon-HHD_48-1/README.md) |
 | 2026.02.13 | 2025.11.22 @高雄酒展  | A Girl Like You North British Uncharted Whisky Co. 1989 34yo Ex-Bourbon 45.7% | 明亮的水果香氣，帶有青草、夏日花香與青蘋果的清新感。 菠蘿翻轉蛋糕、檸檬冰糕的甜美，隨後出現肉豆蔻與肉桂的柔和香料。 水果風味在口中如跳跳糖般活潑，帶有泡騰感，最後留下熱帶果汁與檸檬冰糕的持久印象。 | [Note](./Whisky/North_British/North-British_Uncharted-Whisky-Co._A-Girl-Like-You_1989_34yo_Ex-Bourbon_45-7/README.md) |
 | 2026.01.31 | 2025.11.22 @高雄酒展  | 老夫子 Blair Athol HKWHISKY 2010 11yo Refill Sherry Butt 53.8% | 花香、桃子與巧克力的香甜 | [Note](./Whisky/Blair_Athol/Blair-Athol_HKWHISKY_老夫子_2010_11yo_Refill-Sherry-Butt_53-8/README.md) |
 | 2026.01.31 | 2025.11.22 @高雄酒展  | 老夫子 Bowmore HKWHISKY 1997 22yo Refill Sherry Butt 52.6% | 亞麻仁油以及檸檬喉糖的香氣；隨後轉化為番茄、無花果葉與新鮮杏仁的層次 未加水時展現出極其活潑的柑橘感與鹹味，質地如油脂般包覆口腔。加水後則帶出完美的海邊鹹感與熱帶果皮香氣，並有鹽漬甘草的風味 餘韻悠長且帶有油潤感，結尾呈現煙燻魚肉、甘草，甚至帶有些許苦艾酒與梅斯卡爾酒 (Mezcal) 的獨特反轉 | [Note](./Whisky/Bowmore/Bowmore_HKWHISKY_老夫子_1997_22yo_Refill-Sherry-Butt_52-6/README.md) |
@@ -181,6 +182,8 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Ballindalloch\README.md">📂 Ballindalloch</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Ballindalloch\Ballindalloch_OB_ Single-Cask_2016_8yo_1st-Bourbon_60-5\README.md">📄 Ballindalloch_OB_ Single-Cask_2016_8yo_1st-Bourbon_60-5</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Ballindalloch\Ballindalloch_OB_2015_9yo_Sherry-Butt_61-7\README.md">📄 Ballindalloch_OB_2015_9yo_Sherry-Butt_61-7</a>
 
 </details>
 
