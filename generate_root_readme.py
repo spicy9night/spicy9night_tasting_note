@@ -198,8 +198,20 @@ if __name__ == "__main__":
     # All entries
     all_entries = existing_entries + confirmed_new_entries
     
-    # Sort by add_date desc
-    all_entries.sort(key=lambda e: datetime.datetime.strptime(e['add_date'], '%Y.%m.%d'), reverse=True)
+    # Create a mapping to track which entries are newly confirmed
+    # This ensures that on the same day, newly added entries appear first
+    entry_to_source = {}
+    for i, entry in enumerate(existing_entries):
+        entry_to_source[id(entry)] = (0, i)  # 0 for existing entries
+    for i, entry in enumerate(confirmed_new_entries):
+        entry_to_source[id(entry)] = (1, i)  # 1 for confirmed new entries (higher value sorts first when reversed)
+    
+    # Sort by: date desc, then new entries first (same day), then original order
+    all_entries.sort(key=lambda e: (
+        -datetime.datetime.strptime(e['add_date'], '%Y.%m.%d').timestamp(),
+        -entry_to_source[id(e)][0],
+        entry_to_source[id(e)][1]
+    ))
     
     # Top 3 for main, rest for show all
     main_entries = all_entries[:3]
