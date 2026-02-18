@@ -3,15 +3,17 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
-| 2026.02.18 | 2025.11.22 @高雄酒展  | Original Collection Craigellachie Cadenhead's 2006 18yo Refill Oloroso HHD 46% | 帶有潮濕的氣息，燉煮水果、白巧克力鈕扣，甚至有一點點像是毛豆的鹹鮮感。 口感油脂感重且濃郁。出現皮革、黑巧克力、抹茶與開心果的風味。這反映了魁列奇經典的重酒體與雪莉桶帶來的層次。 聖誕蛋糕、檸檬汁、花生醬，最後轉為葡萄乾和牛奶巧克力。 | [Note](./Whisky/Craigellachie/Craigellachie_Cadenhead-s_ Original-Collection_2006_18yo_Refill-Oloroso-HHD_46-0/README.md) |
-| 2026.02.17 | 2025.11.22 @高雄酒展  | Travel Series_Fifties Macallan OB Sherry 40% | 陳皮梅、茶餐廳、甜酒、杏仁可頌、花蜜與開心果糖漿，老派麥卡倫(?) | [Note](./Whisky/Macallan/Macallan_OB_Travel-Series_Fifties_Sherry_40-0/README.md) |
-| 2026.02.17 | 2025.11.22 @高雄酒展  | Ballindalloch OB 2015 9yo Sherry Butt 61.7% | 初次雪莉桶帶來的乾果、核桃與黑巧克力感非常直接。 61.7% 衝擊力強，酒體紮實。前段為葡萄乾甜感，中後段出現可可碎片的微苦與木質香氣。 木質香氣與油脂感留存時間長。 | [Note](./Whisky/Ballindalloch/Ballindalloch_OB_2015_9yo_Sherry-Butt_61-7/README.md) |
+| 2026.02.18 | 2025.11.22 @高雄酒展  | Mission Gold Glenfiddich Murray McDavid 1989 35yo Oloroso+PX+Pauillac Wine Cask Finish 46.7% | 豐富的紅色水果、黑醋栗（紅酒桶影響）與濃郁的黑巧克力、葡萄乾（雪莉桶影響）。高年份帶來的舊皮革與淡淡的菸草氣息點綴其中。 酒體圓潤且充滿油脂感。首先感受到的是雪莉桶的濃稠甜感，隨後轉為紅酒桶帶來的單寧酸甜平衡，出現像是黑櫻桃、辛香料與老橡木的風味。 這支印象中也很喜歡，mission gold 系列好喝又便宜。極其悠長。深色的漿果餘味與木質調的香氣在口中繚繞，最後有一點溫暖的肉桂感。 | [Note](./Whisky/Glenfiddich/Glenfiddich_Murray-McDavid_Mission-Gold_1989_35yo_Oloroso+PX+Pauillac-Wine-Cask-Finish_46-7/README.md) |
+| 2026.02.18 | 2025.11.22 @高雄酒展  | Enigma Glenmorangie Cadenhead's 1985 40yo Bourbon HHD 44.5% | 展現出極致的老酒風情。初聞是濃郁的熱帶水果氣息（熟成芒果、蜜漬鳳梨），隨後散發出優雅的蜂蠟與老舊圖書館的木質調。隱約中帶有細緻的乾花香與香草莢的甜味。 酒體絲滑且極具層次。44.5% 的酒精度讓它入口非常溫潤，出現了橙皮果醬、糖漬生薑與焦糖燉蘋果的風味。中段發展出細膩的單寧感，像是高級皮革與苦甜巧克力的交織。 印象中很好喝。悠長且優雅。帶有淡淡的薄荷清涼感、檀香與乾果的餘甜，最後停留在口中是一股溫暖的香料味與老波本桶特有的奶油質感。 | [Note](./Whisky/Glenmorangie/Glenmorangie_Cadenhead-s_Enigma_1985_40yo_Bourbon-HHD_44-5/README.md) |
+| 2026.02.18 | 2025.11.22 @高雄酒展  | Original Collection Craigellachie Cadenhead's 2006 18yo Refill Oloroso HHD 46% | 帶有潮濕的氣息，燉煮水果、白巧克力鈕扣，甚至有一點點像是毛豆的鹹鮮感。 口感油脂感重且濃郁。出現皮革、黑巧克力、抹茶與開心果的風味。這反映了魁列奇經典的重酒體與雪莉桶帶來的層次。 聖誕蛋糕、檸檬汁、花生醬，最後轉為葡萄乾和牛奶巧克力。 | [Note](./Whisky/Craigellachie/Craigellachie_Cadenhead-s_Original-Collection_2006_18yo_Refill-Oloroso-HHD_46-0/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.02.17 | 2025.11.22 @高雄酒展  | Travel Series_Fifties Macallan OB Sherry 40% | 陳皮梅、茶餐廳、甜酒、杏仁可頌、花蜜與開心果糖漿，老派麥卡倫(?) | [Note](./Whisky/Macallan/Macallan_OB_Travel-Series_Fifties_Sherry_40-0/README.md) |
+| 2026.02.17 | 2025.11.22 @高雄酒展  | Ballindalloch OB 2015 9yo Sherry Butt 61.7% | 初次雪莉桶帶來的乾果、核桃與黑巧克力感非常直接。 61.7% 衝擊力強，酒體紮實。前段為葡萄乾甜感，中後段出現可可碎片的微苦與木質香氣。 木質香氣與油脂感留存時間長。 | [Note](./Whisky/Ballindalloch/Ballindalloch_OB_2015_9yo_Sherry-Butt_61-7/README.md) |
 | 2026.02.16 | 2025.11.22 @高雄酒展  | Single Cask Ballindalloch OB 2016 8yo 1st Bourbon 60.5% | 淡淡櫻花 | [Note](./Whisky/Ballindalloch/Ballindalloch_OB_ Single-Cask_2016_8yo_1st-Bourbon_60-5/README.md) |
 | 2026.02.13 | 2025.11.22 @高雄酒展  | The Absolute Choice Caol Ila Cadenhead's 33yo 56.6% | 燒花的泥煤 | [Note](./Whisky/Caol_Ila/Caol-Ila_Cadenhead-s_The-Absolute-Choice_33yo_56-6/README.md) |
 | 2026.02.13 | 2025.11.22 @高雄酒展  | 21.28 Glenglassaugh SMWS 1974 37yo Refill Bourbon HHD 48.1% | 舊書店 太妃糖 奶油 蜂蜜檸檬 | [Note](./Whisky/Glenglassaugh/Glenglassaugh_SMWS_21.28_1974_37yo_Refill-Bourbon-HHD_48-1/README.md) |
@@ -288,7 +290,7 @@
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Craigellachie\README.md">📂 Craigellachie</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Craigellachie\Craigellachie_Cadenhead-s_ Original-Collection_2006_18yo_Refill-Oloroso-HHD_46-0\README.md">📄 Craigellachie_Cadenhead-s_ Original-Collection_2006_18yo_Refill-Oloroso-HHD_46-0</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Craigellachie\Craigellachie_Cadenhead-s_Original-Collection_2006_18yo_Refill-Oloroso-HHD_46-0\README.md">📄 Craigellachie_Cadenhead-s_Original-Collection_2006_18yo_Refill-Oloroso-HHD_46-0</a>
 
 </details>
 
@@ -359,6 +361,13 @@
 </details>
 
 <details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Glenfiddich\README.md">📂 Glenfiddich</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenfiddich\Glenfiddich_Murray-McDavid_Mission-Gold_1989_35yo_Oloroso+PX+Pauillac-Wine-Cask-Finish_46-7\README.md">📄 Glenfiddich_Murray-McDavid_Mission-Gold_1989_35yo_Oloroso+PX+Pauillac-Wine-Cask-Finish_46-7</a>
+
+</details>
+
+<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glenglassaugh\README.md">📂 Glenglassaugh</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenglassaugh\Glenglassaugh_SMWS_21.28_1974_37yo_Refill-Bourbon-HHD_48-1\README.md">📄 Glenglassaugh_SMWS_21.28_1974_37yo_Refill-Bourbon-HHD_48-1</a>
@@ -369,6 +378,13 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\README.md">📂 Glenkinchie</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenkinchie\Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2\README.md">📄 Glenkinchie_IB_2008_17yo_Sherry-HHD_50-2</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Glenmorangie\README.md">📂 Glenmorangie</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenmorangie\Glenmorangie_Cadenhead-s_Enigma_1985_40yo_Bourbon-HHD_44-5\README.md">📄 Glenmorangie_Cadenhead-s_Enigma_1985_40yo_Bourbon-HHD_44-5</a>
 
 </details>
 
