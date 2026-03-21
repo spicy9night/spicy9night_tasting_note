@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.03.21 | 2026.03.19  | Glengoyne OB 18yo 43.3% | 莓果 甘蔗 紅蘋果 茶感適中 紅茶 一半是 First Fill 初次雪莉桶，底蘊極其深厚。紅蘋果風味中帶有適中的紅茶感。這款酒雪莉桶的單寧很高，西方人或許沒那麼喜歡，但卻非常適合常喝茶、對單寧有高親和力的亞洲人。這正是為什麼雪莉桶在台灣能稱霸的關鍵——這是一份藏在味覺基因裡的共鳴。 | [Note](./Whisky/Glengoyne/Glengoyne_OB_18yo_43-3/README.md) |
 | 2026.03.21 | 2025.03.26  | 66.234_There's soot in my syrup Ardmore SMWS 1998 24yo Bourbon+HHD 51.7% | 胡椒 偏白胡椒調性 臘肉 放了一下轉甜 金黃蘋果 蜜蘋果調性 皮革 辛香料 胡椒 一點點皂味 口感帶有蠟質感 轉甜之後的花蜜非常的多 帶有百香果味道 一開始滿嗆辣 辛辣，到後面有轉換成非常甜美的樣子 ，變了一種酒，再放還有柚木的味道，剛開簡直不能喝，越放越香越有趣 | [Note](./Whisky/Ardmore/Ardmore_SMWS_66.234_There's-soot-in-my-syrup_1998_24yo_Bourbon-+HHD_51-7/README.md) |
 | 2026.03.21 | 2026.03.21  | Glengoyne OB 2023 0yo New Make 63.6% | 香蕉 荔枝 摸摸渣渣的罐頭水果 罐頭鳳梨 蘋果汁 油脂豐富 濃縮罐頭 油脂包覆性很強又滑順 | [Note](./Whisky/Glengoyne/Glengoyne_OB_2023_0yo_New-Make_63-6/README.md) |
-| 2026.02.19 | 2025.11.22 @高雄酒展  | Trickster Ben Nevis Rudder Ltd. 2018 7yo 1st Mizunara HHD 51.4% | 椰奶 哈密瓜 紅茶 美國生日蛋糕 拜拜的煙香 麻糬的花生粉 水楢新桶的辛香與酒廠果香完美融合 。 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_Rudder-Ltd._Trickster_2018_7yo_1st-Mizunara-HHD_51-4/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.02.19 | 2025.11.22 @高雄酒展  | Trickster Ben Nevis Rudder Ltd. 2018 7yo 1st Mizunara HHD 51.4% | 椰奶 哈密瓜 紅茶 美國生日蛋糕 拜拜的煙香 麻糬的花生粉 水楢新桶的辛香與酒廠果香完美融合 。 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_Rudder-Ltd._Trickster_2018_7yo_1st-Mizunara-HHD_51-4/README.md) |
 | 2026.02.19 | 2025.11.22 @高雄酒展  | 44.190_Unleash The Serpent_Deep rich and dried fruit Craigellachie SMWS 2003 21yo Ex-Bourbon hogshead+1st fill #4 char hogshead 56% | 酸條糖果甜 回甘甘草糖 | [Note](./Whisky/Craigellachie/Craigellachie_SMWS_44.190_Unleash-The-Serpent_Deep-rich-and-dried-fruit_2003_21yo_Ex-Bourbon-hogshead_1st-fill-#4-char-hogshead_56-0/README.md) |
 | 2026.02.19 | 2025.11.22 @高雄酒展  | 金秋 Komagatake OB 2017 8yo Sherry HHD 56% |  | [Note](./Whisky/Komagatake/Komagatake_OB_金秋_2017_8yo_Sherry-HHD_56-0/README.md) |
 | 2026.02.19 | 2025.11.22 @高雄酒展  | 76.157_Behold The Beast_Deep rich and dried fruit Mortlach SMWS 2006 18yo 1st Oloroso butt 54.3% | 香蕉冰淇淋 香草奶油蛋糕 | [Note](./Whisky/Mortlach/Mortlach_SMWS_76.157_Behold-The-Beast_Deep-rich-and-dried-fruit_2006_18yo_1st-Oloroso-butt_54-3/README.md) |
@@ -384,6 +385,8 @@
 
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glengoyne\README.md">📂 Glengoyne</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glengoyne\Glengoyne_OB_18yo_43-3\README.md">📄 Glengoyne_OB_18yo_43-3</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glengoyne\Glengoyne_OB_2023_0yo_New-Make_63-6\README.md">📄 Glengoyne_OB_2023_0yo_New-Make_63-6</a>
 
