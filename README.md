@@ -3,15 +3,26 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
-| 2026.03.21 | 2026.03.19  | Glengoyne OB 18yo 43.3% | 莓果 甘蔗 紅蘋果 茶感適中 紅茶 一半是 First Fill 初次雪莉桶，底蘊極其深厚。紅蘋果風味中帶有適中的紅茶感。這款酒雪莉桶的單寧很高，西方人或許沒那麼喜歡，但卻非常適合常喝茶、對單寧有高親和力的亞洲人。這正是為什麼雪莉桶在台灣能稱霸的關鍵——這是一份藏在味覺基因裡的共鳴。 | [Note](./Whisky/Glengoyne/Glengoyne_OB_18yo_43-3/README.md) |
-| 2026.03.21 | 2025.03.26  | 66.234_There's soot in my syrup Ardmore SMWS 1998 24yo Bourbon+HHD 51.7% | 胡椒 偏白胡椒調性 臘肉 放了一下轉甜 金黃蘋果 蜜蘋果調性 皮革 辛香料 胡椒 一點點皂味 口感帶有蠟質感 轉甜之後的花蜜非常的多 帶有百香果味道 一開始滿嗆辣 辛辣，到後面有轉換成非常甜美的樣子 ，變了一種酒，再放還有柚木的味道，剛開簡直不能喝，越放越香越有趣 | [Note](./Whisky/Ardmore/Ardmore_SMWS_66.234_There's-soot-in-my-syrup_1998_24yo_Bourbon-+HHD_51-7/README.md) |
-| 2026.03.21 | 2026.03.21  | Glengoyne OB 2023 0yo New Make 63.6% | 香蕉 荔枝 摸摸渣渣的罐頭水果 罐頭鳳梨 蘋果汁 油脂豐富 濃縮罐頭 油脂包覆性很強又滑順 | [Note](./Whisky/Glengoyne/Glengoyne_OB_2023_0yo_New-Make_63-6/README.md) |
+| 2026.03.25 | 2026.03.24  | Benriach The Whisky Agency 2007 16yo Butt 53.2% | 苦苦 吐司烤焦的味道 有點魚肉的味道  | [Note](./Whisky/Benriach/Benriach_The-Whisky-Agency_2007_16yo_Butt_53-2/README.md) |
+| 2026.03.25 | 2026.03.24  | Ben Nevis The Whisky Agency 1996 28yo HHD 43.2% | 蠟味 濃郁的蜜蘋果 葡萄汽水 帶皮蘋果 木質調  | [Note](./Whisky/Ben_Nevis/Ben-Nevis_The-Whisky-Agency_1996_28yo_HHD_43-2/README.md) |
+| 2026.03.25 | 2026.03.24  | Ben Nevis The Whisky Agency 1996 28yo Sherry Butt 51.8% | 聖誕蛋糕 麥芽糖 普洱茶 可樂 黃金糖 麥芽香氣 茶感酒體 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_The-Whisky-Agency_1996_28yo_Sherry-Butt_51-8/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.03.25 | 2026.03.25  | Bruichladdich The Whisky Agency 2011 12yo Sauternes Cask 54.2% | 茶味明顯 熟成的蘋果 淡雅煙燻 薰香木質調 甜香 淡淡煙燻 有點水蜜桃 我喜歡的味道都有 | [Note](./Whisky/Bruichladdich/Bruichladdich_The-Whisky-Agency_2011_12yo_Sauternes-Cask_54-2/README.md) |
+| 2026.03.25 | 2026.03.24  | Bruichladdich The Whisky Agency 2012 11yo Bordeaux Cask 52.7% | 硫... +深色莓果 硫磺溫泉蛋佐葡萄乾 是有水果味道啦，但是好硫 | [Note](./Whisky/Bruichladdich/Bruichladdich_The-Whisky-Agency_2012_11yo_Bordeaux-Cask_52-7/README.md) |
+| 2026.03.25 | 2026.03.24  | Dailuaine The Whisky Agency 2007 15yo HHD 52.1% | 黃瓜味 但是尾韻帶香瓜味 花味尾段也有 小硫 雞蛋蛋白味 香氣時有爆發點 但喝起來偏複雜 | [Note](./Whisky/Dailuaine/Dailuaine_The-Whisky-Agency_2007_15yo_HHD_52-1/README.md) |
+| 2026.03.25 | 2026.03.24  | Glenrothes The Whisky Agency 1992 31yo HHD 50.7% | 木質調 線香 一點點香甜的香菇水 巧克力 有一點辣 胡椒感 苦甜 苦瓜 普洱茶 聞的比喝的好 | [Note](./Whisky/GlenRothes/Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7/README.md) |
+| 2026.03.25 | 2026.03.24  | Highlank Park The Whisky Agency 2003 21yo HHD 51.3% | 濃郁的花香 碘味 胡椒 甜美 香甜 荳蔻 一點點瓜味 柔和甜美也香甜 | [Note](./Whisky/Highland_Park/Highlank-Park_The-Whisky-Agency_2003_21yo_HHD_51-3/README.md) |
+| 2026.03.25 | 2026.03.24  | Highlank Park The Whisky Agency 2006 16yo HHD 52.9% | 小白花香 石楠花 麥汁 啤酒 入口苦味 苦精感 碘酒 香氣不錯 但是口感味道有點苦 礦石味 | [Note](./Whisky/Highland_Park/Highlank-Park_The-Whisky-Agency_2006_16yo_HHD_52-9/README.md) |
+| 2026.03.25 | 2026.03.25  | Secret Islay The Whisky Agency 2013 11yo HHD 50.2% | 胭脂粉味 黑李 有時候又有正露丸 桃子可樂 一開始衝鼻的味道沒到那麼喜歡 但隱隱約約一直有個很棒的氣味 | [Note](./Whisky/Secret_Islay/Secret-Islay_The-Whisky-Agency_2013_11yo_HHD_50-2/README.md) |
+| 2026.03.25 | 2026.03.24  | Secret Speyside The Whisky Agency 1995 28yo Sherry Butt 51.1% | 黏土帶花蜜 花粉香甜 綠豆薏仁湯 太妃糖 麝香葡萄 甜蜜蜜的感覺與水果花香很棒 | [Note](./Whisky/Secret_Speyside/Secret-Speyside_The-Whisky-Agency_1995_28yo_Sherry-Butt_51-1/README.md) |
+| 2026.03.21 | 2026.03.19  | Glengoyne OB 18yo 43.3% | 莓果 甘蔗 紅蘋果 茶感適中 紅茶 一半是 First Fill 初次雪莉桶，底蘊極其深厚。紅蘋果風味中帶有適中的紅茶感。這款酒雪莉桶的單寧很高，西方人或許沒那麼喜歡，但卻非常適合常喝茶、對單寧有高親和力的亞洲人。這正是為什麼雪莉桶在台灣能稱霸的關鍵——這是一份藏在味覺基因裡的共鳴。 | [Note](./Whisky/Glengoyne/Glengoyne_OB_18yo_43-3/README.md) |
+| 2026.03.21 | 2025.03.26  | 66.234_There's soot in my syrup Ardmore SMWS 1998 24yo Bourbon+HHD 51.7% | 胡椒 偏白胡椒調性 臘肉 放了一下轉甜 金黃蘋果 蜜蘋果調性 皮革 辛香料 胡椒 一點點皂味 口感帶有蠟質感 轉甜之後的花蜜非常的多 帶有百香果味道 一開始滿嗆辣 辛辣，到後面有轉換成非常甜美的樣子 ，變了一種酒，再放還有柚木的味道，剛開簡直不能喝，越放越香越有趣 | [Note](./Whisky/Ardmore/Ardmore_SMWS_66.234_There's-soot-in-my-syrup_1998_24yo_Bourbon-+HHD_51-7/README.md) |
+| 2026.03.21 | 2026.03.21  | Glengoyne OB 2023 0yo New Make 63.6% | 香蕉 荔枝 摸摸渣渣的罐頭水果 罐頭鳳梨 蘋果汁 油脂豐富 濃縮罐頭 油脂包覆性很強又滑順 | [Note](./Whisky/Glengoyne/Glengoyne_OB_2023_0yo_New-Make_63-6/README.md) |
 | 2026.02.19 | 2025.11.22 @高雄酒展  | Trickster Ben Nevis Rudder Ltd. 2018 7yo 1st Mizunara HHD 51.4% | 椰奶 哈密瓜 紅茶 美國生日蛋糕 拜拜的煙香 麻糬的花生粉 水楢新桶的辛香與酒廠果香完美融合 。 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_Rudder-Ltd._Trickster_2018_7yo_1st-Mizunara-HHD_51-4/README.md) |
 | 2026.02.19 | 2025.11.22 @高雄酒展  | 44.190_Unleash The Serpent_Deep rich and dried fruit Craigellachie SMWS 2003 21yo Ex-Bourbon hogshead+1st fill #4 char hogshead 56% | 酸條糖果甜 回甘甘草糖 | [Note](./Whisky/Craigellachie/Craigellachie_SMWS_44.190_Unleash-The-Serpent_Deep-rich-and-dried-fruit_2003_21yo_Ex-Bourbon-hogshead_1st-fill-#4-char-hogshead_56-0/README.md) |
 | 2026.02.19 | 2025.11.22 @高雄酒展  | 金秋 Komagatake OB 2017 8yo Sherry HHD 56% |  | [Note](./Whisky/Komagatake/Komagatake_OB_金秋_2017_8yo_Sherry-HHD_56-0/README.md) |
@@ -224,6 +235,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Ben_Nevis\Ben-Nevis_Rudder-Ltd._Trickster_2018_7yo_1st-Mizunara-HHD_51-4\README.md">📄 Ben-Nevis_Rudder-Ltd._Trickster_2018_7yo_1st-Mizunara-HHD_51-4</a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Ben_Nevis\Ben-Nevis_The-Whisky-Agency_1996_28yo_HHD_43-2\README.md">📄 Ben-Nevis_The-Whisky-Agency_1996_28yo_HHD_43-2</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Ben_Nevis\Ben-Nevis_The-Whisky-Agency_1996_28yo_Sherry-Butt_51-8\README.md">📄 Ben-Nevis_The-Whisky-Agency_1996_28yo_Sherry-Butt_51-8</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Benriach\README.md">📂 Benriach</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Benriach\Benriach_The-Whisky-Agency_2007_16yo_Butt_53-2\README.md">📄 Benriach_The-Whisky-Agency_2007_16yo_Butt_53-2</a>
+
 </details>
 
 <details>
@@ -258,6 +280,15 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Braeval\README.md">📂 Braeval</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Braeval\Braeval_OB_NA_26yo_NA_52-1\README.md">📄 Braeval_OB_NA_26yo_NA_52-1</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Bruichladdich\README.md">📂 Bruichladdich</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bruichladdich\Bruichladdich_The-Whisky-Agency_2011_12yo_Sauternes-Cask_54-2\README.md">📄 Bruichladdich_The-Whisky-Agency_2011_12yo_Sauternes-Cask_54-2</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bruichladdich\Bruichladdich_The-Whisky-Agency_2012_11yo_Bordeaux-Cask_52-7\README.md">📄 Bruichladdich_The-Whisky-Agency_2012_11yo_Bordeaux-Cask_52-7</a>
 
 </details>
 
@@ -318,6 +349,26 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Croftengea\README.md">📂 Croftengea</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Croftengea\Croftengea_IB_2006_19yo_Olorosso-Sherry_53-1\README.md">📄 Croftengea_IB_2006_19yo_Olorosso-Sherry_53-1</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Dailuaine\README.md">📂 Dailuaine</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Dailuaine\Dailuaine_The-Whisky-Agency_2007_15yo_HHD_52-1\README.md">📄 Dailuaine_The-Whisky-Agency_2007_15yo_HHD_52-1</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\README.md">📂 GlenRothes</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7\README.md">📄 Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9\README.md">📄 Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md">📄 Glenrothes_WhiskyFind_1996_26yo_HHD_50-5</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9\README.md">📄 Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9</a>
 
 </details>
 
@@ -412,22 +463,15 @@
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\README.md">📂 Glenrothes</a></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9\README.md">📄 Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md">📄 Glenrothes_WhiskyFind_1996_26yo_HHD_50-5</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9\README.md">📄 Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9</a>
-
-</details>
-
-<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\README.md">📂 Highland_Park</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7\README.md">📄 Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_Ór-Sileis_1998_21yo_HHD_54-0\README.md">📄 Highland-Park_Ór-Sileis_1998_21yo_HHD_54-0</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highlank-Park_The-Whisky-Agency_2003_21yo_HHD_51-3\README.md">📄 Highlank-Park_The-Whisky-Agency_2003_21yo_HHD_51-3</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highlank-Park_The-Whisky-Agency_2006_16yo_HHD_52-9\README.md">📄 Highlank-Park_The-Whisky-Agency_2006_16yo_HHD_52-9</a>
 
 </details>
 
@@ -559,6 +603,20 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Samaroli\README.md">📂 Samaroli</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Samaroli\Samaroli_No-Age_First-Edition_46-0\README.md">📄 Samaroli_No-Age_First-Edition_46-0</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Secret_Islay\README.md">📂 Secret_Islay</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Secret_Islay\Secret-Islay_The-Whisky-Agency_2013_11yo_HHD_50-2\README.md">📄 Secret-Islay_The-Whisky-Agency_2013_11yo_HHD_50-2</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Secret_Speyside\README.md">📂 Secret_Speyside</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Secret_Speyside\Secret-Speyside_The-Whisky-Agency_1995_28yo_Sherry-Butt_51-1\README.md">📄 Secret-Speyside_The-Whisky-Agency_1995_28yo_Sherry-Butt_51-1</a>
 
 </details>
 
