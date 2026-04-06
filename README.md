@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.04.06 | 2025.11.22 @高雄酒展  | Single Cask Ballindalloch OB 2016 8yo 1st Bourbon 60.5% | 淡淡櫻花 | [Note](./Whisky/Ballindalloch/Ballindalloch_OB_Single-Cask_2016_8yo_1st-Bourbon_60-5/README.md) |
 | 2026.04.03 | 2026.03.19  | Glengoyne OB 12yo 43% | 有點琉味 香菜香菇 剛下完雨的草原 青草 豐富層次與清爽青蘋果風味的完美平衡。 | [Note](./Whisky/Glengoyne/Glengoyne_OB_12yo_43-0/README.md) |
 | 2026.04.03 | 2026.03.19  | Glengoyne OB 5yo Bourbon 60.8% | 蘋果、洋梨、甚至是熱帶水果 香草奶油、椰子、以及剛出爐的奶油酥餅 | [Note](./Whisky/Glengoyne/Glengoyne_OB_5yo_Bourbon_60-8/README.md) |
-| 2026.04.03 | 2026.03.24  | Glenrothes The Whisky Agency 1992 31yo HHD 50.7% | 木質調 線香 一點點香甜的香菇水 巧克力 有一點辣 胡椒感 苦甜 苦瓜 普洱茶 聞的比喝的好 | [Note](./Whisky/Glenrothes/Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.04.03 | 2026.03.24  | Glenrothes The Whisky Agency 1992 31yo HHD 50.7% | 木質調 線香 一點點香甜的香菇水 巧克力 有一點辣 胡椒感 苦甜 苦瓜 普洱茶 聞的比喝的好 | [Note](./Whisky/Glenrothes/Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7/README.md) |
 | 2026.03.25 | 2026.03.24  | Benriach The Whisky Agency 2007 16yo Butt 53.2% | 苦苦 吐司烤焦的味道 有點魚肉的味道 | [Note](./Whisky/Benriach/Benriach_The-Whisky-Agency_2007_16yo_Butt_53-2/README.md) |
 | 2026.03.25 | 2026.03.24  | Ben Nevis The Whisky Agency 1996 28yo HHD 43.2% | 蠟味 濃郁的蜜蘋果 葡萄汽水 帶皮蘋果 木質調 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_The-Whisky-Agency_1996_28yo_HHD_43-2/README.md) |
 | 2026.03.25 | 2026.03.24  | Ben Nevis The Whisky Agency 1996 28yo Sherry Butt 51.8% | 聖誕蛋糕 麥芽糖 普洱茶 可樂 黃金糖 麥芽香氣 茶感酒體 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_The-Whisky-Agency_1996_28yo_Sherry-Butt_51-8/README.md) |
@@ -368,6 +369,19 @@
 </details>
 
 <details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\README.md">📂 GlenRothes</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7\README.md">📄 Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9\README.md">📄 Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md">📄 Glenrothes_WhiskyFind_1996_26yo_HHD_50-5</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9\README.md">📄 Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9</a>
+
+</details>
+
+<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glen_Elgin\README.md">📂 Glen_Elgin</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Elgin\Glen-Elgin_HKWHISKY_老夫子_2010_11yo_Refill-Sherry-Butt_54-2\README.md">📄 Glen-Elgin_HKWHISKY_老夫子_2010_11yo_Refill-Sherry-Butt_54-2</a>
@@ -458,19 +472,6 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glenmorangie\README.md">📂 Glenmorangie</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenmorangie\Glenmorangie_Cadenhead-s_Enigma_1985_40yo_Bourbon-HHD_44-5\README.md">📄 Glenmorangie_Cadenhead-s_Enigma_1985_40yo_Bourbon-HHD_44-5</a>
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\README.md">📂 Glenrothes</a></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7\README.md">📄 Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9\README.md">📄 Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md">📄 Glenrothes_WhiskyFind_1996_26yo_HHD_50-5</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9\README.md">📄 Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9</a>
 
 </details>
 
