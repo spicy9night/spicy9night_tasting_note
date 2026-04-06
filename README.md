@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
-| 2026.03.25 | 2026.03.24  | Benriach The Whisky Agency 2007 16yo Butt 53.2% | 苦苦 吐司烤焦的味道 有點魚肉的味道  | [Note](./Whisky/Benriach/Benriach_The-Whisky-Agency_2007_16yo_Butt_53-2/README.md) |
-| 2026.03.25 | 2026.03.24  | Ben Nevis The Whisky Agency 1996 28yo HHD 43.2% | 蠟味 濃郁的蜜蘋果 葡萄汽水 帶皮蘋果 木質調  | [Note](./Whisky/Ben_Nevis/Ben-Nevis_The-Whisky-Agency_1996_28yo_HHD_43-2/README.md) |
-| 2026.03.25 | 2026.03.24  | Ben Nevis The Whisky Agency 1996 28yo Sherry Butt 51.8% | 聖誕蛋糕 麥芽糖 普洱茶 可樂 黃金糖 麥芽香氣 茶感酒體 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_The-Whisky-Agency_1996_28yo_Sherry-Butt_51-8/README.md) |
+| 2026.04.06 | 2025.11.22 @高雄酒展  | Single Cask Ballindalloch OB 2016 8yo 1st Bourbon 60.5% | 淡淡櫻花 | [Note](./Whisky/Ballindalloch/Ballindalloch_OB_Single-Cask_2016_8yo_1st-Bourbon_60-5/README.md) |
+| 2026.03.25 | 2026.03.24  | Benriach The Whisky Agency 2007 16yo Butt 53.2% | 苦苦 吐司烤焦的味道 有點魚肉的味道 | [Note](./Whisky/Benriach/Benriach_The-Whisky-Agency_2007_16yo_Butt_53-2/README.md) |
+| 2026.03.25 | 2026.03.24  | Ben Nevis The Whisky Agency 1996 28yo HHD 43.2% | 蠟味 濃郁的蜜蘋果 葡萄汽水 帶皮蘋果 木質調 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_The-Whisky-Agency_1996_28yo_HHD_43-2/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.03.25 | 2026.03.24  | Ben Nevis The Whisky Agency 1996 28yo Sherry Butt 51.8% | 聖誕蛋糕 麥芽糖 普洱茶 可樂 黃金糖 麥芽香氣 茶感酒體 | [Note](./Whisky/Ben_Nevis/Ben-Nevis_The-Whisky-Agency_1996_28yo_Sherry-Butt_51-8/README.md) |
 | 2026.03.25 | 2026.03.25  | Bruichladdich The Whisky Agency 2011 12yo Sauternes Cask 54.2% | 茶味明顯 熟成的蘋果 淡雅煙燻 薰香木質調 甜香 淡淡煙燻 有點水蜜桃 我喜歡的味道都有 | [Note](./Whisky/Bruichladdich/Bruichladdich_The-Whisky-Agency_2011_12yo_Sauternes-Cask_54-2/README.md) |
 | 2026.03.25 | 2026.03.24  | Bruichladdich The Whisky Agency 2012 11yo Bordeaux Cask 52.7% | 硫... +深色莓果 硫磺溫泉蛋佐葡萄乾 是有水果味道啦，但是好硫 | [Note](./Whisky/Bruichladdich/Bruichladdich_The-Whisky-Agency_2012_11yo_Bordeaux-Cask_52-7/README.md) |
 | 2026.03.25 | 2026.03.24  | Dailuaine The Whisky Agency 2007 15yo HHD 52.1% | 黃瓜味 但是尾韻帶香瓜味 花味尾段也有 小硫 雞蛋蛋白味 香氣時有爆發點 但喝起來偏複雜 | [Note](./Whisky/Dailuaine/Dailuaine_The-Whisky-Agency_2007_15yo_HHD_52-1/README.md) |
@@ -164,6 +165,11 @@
 </details>
 
 <details>
+<summary><a href=".\EA\README.md">📁 EA</a></summary>
+
+</details>
+
+<details>
 <summary><a href=".\Gin\README.md">📁 Gin</a></summary>
 
 <details>
@@ -212,9 +218,9 @@
 <details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Ballindalloch\README.md">📂 Ballindalloch</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Ballindalloch\Ballindalloch_OB_ Single-Cask_2016_8yo_1st-Bourbon_60-5\README.md">📄 Ballindalloch_OB_ Single-Cask_2016_8yo_1st-Bourbon_60-5</a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Ballindalloch\Ballindalloch_OB_2015_9yo_Sherry-Butt_61-7\README.md">📄 Ballindalloch_OB_2015_9yo_Sherry-Butt_61-7</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Ballindalloch\Ballindalloch_OB_Single-Cask_2016_8yo_1st-Bourbon_60-5\README.md">📄 Ballindalloch_OB_Single-Cask_2016_8yo_1st-Bourbon_60-5</a>
 
 </details>
 
@@ -557,6 +563,16 @@
 </details>
 
 <details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Miyashita\README.md">📂 Miyashita</a></summary>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Miyashita\Miyashita_OB_百世不磨_Bourbon+Mizunara\README.md">📂 Miyashita_OB_百世不磨_Bourbon+Mizunara</a></summary>
+
+</details>
+
+</details>
+
+<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Mortlach\README.md">📂 Mortlach</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Mortlach\Mortlach_SMWS_76.157_Behold-The-Beast_Deep-rich-and-dried-fruit_2006_18yo_1st-Oloroso-butt_54-3\README.md">📄 Mortlach_SMWS_76.157_Behold-The-Beast_Deep-rich-and-dried-fruit_2006_18yo_1st-Oloroso-butt_54-3</a>
@@ -731,6 +747,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2025\君度_Cointreau\README.md">📄 君度_Cointreau</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2025\玉山茅台\README.md">📄 玉山茅台</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2026\README.md">📂 bottled_2026</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2026\Cointreau\README.md">📄 Cointreau</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2026\Kirkland_American_Vodka_SIX\README.md">📄 Kirkland_American_Vodka_SIX</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2026\Kirkland_Gin_Vodka\README.md">📄 Kirkland_Gin_Vodka</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2026\Kirkland_Gin_雙鷹伏特加\README.md">📄 Kirkland_Gin_雙鷹伏特加</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2026\Kirkland_Rum_12yo\README.md">📄 Kirkland_Rum_12yo</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\自製梅酒\bottled_2026\米酒頭\README.md">📄 米酒頭</a>
 
 </details>
 
