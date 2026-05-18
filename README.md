@@ -3,15 +3,17 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.05.19 | 2026.5.18  | 30th Anniversary Bowmore Signatory Vintage 1972 45yo Refill Sherry Butt 46.7% | 非常濃郁的熱帶水果，果乾，鳳梨，葡萄軟糖 柚木，酸感，而且還有奶油的香味，尾韻帶有西洋梨酸甜 爆發的香氣，濃郁的水果，油脂豐富又帶酸，非常棒的酒款，不愧是WB 92.16分的酒款 https://www.whiskybase.com/zh-cn/whiskies/whisky/118514 | [Note](./Whisky/Bowmore/Bowmore_Signatory-Vintage_30th-Anniversary_1972_45yo_Refill-Sherry-Butt_46-7/README.md) |
+| 2026.05.19 | 2026.5.18  | The First Editions Highland Park Edition Spirits 1996 17yo HHD 54.1% |  | [Note](./Whisky/Highland_Park/Highland-Park_Edition-Spirits_The-First-Editions_1996_17yo_HHD_54-1/README.md) |
 | 2026.04.14 | 2026.03.21  | TeaPot Dram #11 Glengoyne OB 59.7% | 太妃糖 螢火蟲之墓糖果的糖粉 | [Note](./Whisky/Glengoyne/Glengoyne_OB_TeaPot-Dram-#11_59-7/README.md) |
-| 2026.04.08 | 2026.03.21  | Cask Strength Batch 010 Glengoyne OB Oloroso 59.2% | 辛香料 起司蛋糕 多了一些仙草 香草 麥芽糖 | [Note](./Whisky/Glengoyne/Glengoyne_OB_Cask-Strength-Batch-010_Oloroso_59-2/README.md) |
-| 2026.04.08 | 2026.03.19  | Glengoyne OB 21yo 43% | 牛奶巧克力 森永牛奶糖 水果 巨峰葡萄 葡萄感 纖細的普洱茶時不時勾勒一筆 | [Note](./Whisky/Glengoyne/Glengoyne_OB_21yo_43-0/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.04.08 | 2026.03.21  | Cask Strength Batch 010 Glengoyne OB Oloroso 59.2% | 辛香料 起司蛋糕 多了一些仙草 香草 麥芽糖 | [Note](./Whisky/Glengoyne/Glengoyne_OB_Cask-Strength-Batch-010_Oloroso_59-2/README.md) |
+| 2026.04.08 | 2026.03.19  | Glengoyne OB 21yo 43% | 牛奶巧克力 森永牛奶糖 水果 巨峰葡萄 葡萄感 纖細的普洱茶時不時勾勒一筆 | [Note](./Whisky/Glengoyne/Glengoyne_OB_21yo_43-0/README.md) |
 | 2026.04.06 | 2025.11.22 @高雄酒展  | Single Cask Ballindalloch OB 2016 8yo 1st Bourbon 60.5% | 淡淡櫻花 | [Note](./Whisky/Ballindalloch/Ballindalloch_OB_Single-Cask_2016_8yo_1st-Bourbon_60-5/README.md) |
 | 2026.04.03 | 2026.03.19  | Glengoyne OB 12yo 43% | 有點琉味 香菜香菇 剛下完雨的草原 青草 豐富層次與清爽青蘋果風味的完美平衡。 | [Note](./Whisky/Glengoyne/Glengoyne_OB_12yo_43-0/README.md) |
 | 2026.04.03 | 2026.03.19  | Glengoyne OB 5yo Bourbon 60.8% | 蘋果、洋梨、甚至是熱帶水果 香草奶油、椰子、以及剛出爐的奶油酥餅 | [Note](./Whisky/Glengoyne/Glengoyne_OB_5yo_Bourbon_60-8/README.md) |
@@ -171,6 +173,11 @@
 </details>
 
 <details>
+<summary><a href=".\EA\README.md">📁 EA</a></summary>
+
+</details>
+
+<details>
 <summary><a href=".\Gin\README.md">📁 Gin</a></summary>
 
 <details>
@@ -281,6 +288,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bowmore\Bowmore_OB_Sea-Dragon_NA_30yo_NA_43-0\README.md">📄 Bowmore_OB_Sea-Dragon_NA_30yo_NA_43-0</a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Bowmore\Bowmore_Signatory-Vintage_30th-Anniversary_1972_45yo_Refill-Sherry-Butt_46-7\README.md">📄 Bowmore_Signatory-Vintage_30th-Anniversary_1972_45yo_Refill-Sherry-Butt_46-7</a>
+
 </details>
 
 <details>
@@ -363,6 +372,19 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Dailuaine\README.md">📂 Dailuaine</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Dailuaine\Dailuaine_The-Whisky-Agency_2007_15yo_HHD_52-1\README.md">📄 Dailuaine_The-Whisky-Agency_2007_15yo_HHD_52-1</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\README.md">📂 GlenRothes</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7\README.md">📄 Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9\README.md">📄 Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md">📄 Glenrothes_WhiskyFind_1996_26yo_HHD_50-5</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\GlenRothes\Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9\README.md">📄 Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9</a>
 
 </details>
 
@@ -467,20 +489,9 @@
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\README.md">📂 Glenrothes</a></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7\README.md">📄 Glenrothes_The-Whisky-Agency_1992_31yo_HHD_50-7</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9\README.md">📄 Glenrothes_Thompson-Bro-s_1997_24yo_HHD_48-9</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_WhiskyFind_1996_26yo_HHD_50-5\README.md">📄 Glenrothes_WhiskyFind_1996_26yo_HHD_50-5</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenrothes\Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9\README.md">📄 Glenrothes_WhiskyFind_1997_26yo_Armagnac_53-9</a>
-
-</details>
-
-<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\README.md">📂 Highland_Park</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_Edition-Spirits_The-First-Editions_1996_17yo_HHD_54-1\README.md">📄 Highland-Park_Edition-Spirits_The-First-Editions_1996_17yo_HHD_54-1</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7\README.md">📄 Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7</a>
 
@@ -570,6 +581,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Macallan\Macallan_Casky_Finest-Selection_1993_30yo_Sherry-HHD_44-9\README.md">📄 Macallan_Casky_Finest-Selection_1993_30yo_Sherry-HHD_44-9</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Macallan\Macallan_OB_Travel-Series_Fifties_Sherry_40-0\README.md">📄 Macallan_OB_Travel-Series_Fifties_Sherry_40-0</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Miyashita\README.md">📂 Miyashita</a></summary>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Miyashita\Miyashita_OB_百世不磨_Bourbon+Mizunara\README.md">📂 Miyashita_OB_百世不磨_Bourbon+Mizunara</a></summary>
+
+</details>
 
 </details>
 
