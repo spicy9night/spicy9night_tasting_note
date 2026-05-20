@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.05.20 | 2026.5.20  | Cask Strength Collection Caperdonich Signatory Vintage 2000 21yo HHD 55% | 蘋果與蜜餞的香甜氣息迎面撲來，烏梅的酸香為整體增添了優雅的層次感。高酒精度帶來的火熱感讓香氛更加躍動，在杯中翻騰著成熟果實與深色背景音符的交融。 口感豐盈而富有表現力。飛壘口香糖般的香水質感在舌尖蔓延，伴隨著胭脂般的優雅與內斂。強勁的酒質彰顯了 Cask Strength 的特色，但同時保持著出人意料的柔順感，讓人能感受到 21 年橡木桶賦予的成熟度與包裹感。 這是一瓶柔順而美味的威士忌，儘管酒精度高達 55%，卻沒有刺鼻的灼燒感。反而是像絲綢一樣溫柔地鋪展在口腔中，留下長久而舒服的餘韻。Caperdonich 在 Signatory Vintage 的精心挑選下，展現了其特有的甜感與優雅，是一瓶值得細細品味的佳釀。 | [Note](./Whisky/Caperdonich/Caperdonich_Signatory-Vintage_Cask-Strength-Collection_2000_21yo_HHD_55-0/README.md) |
 | 2026.05.19 | 2026.5.18  | 30th Anniversary Bowmore Signatory Vintage 1972 45yo Refill Sherry Butt 46.7% | 非常濃郁的熱帶水果，果乾，鳳梨，葡萄軟糖 柚木，酸感，而且還有奶油的香味，尾韻帶有西洋梨酸甜 爆發的香氣，濃郁的水果，油脂豐富又帶酸，非常棒的酒款，不愧是WB 92.16分的酒款 https://www.whiskybase.com/zh-cn/whiskies/whisky/118514 | [Note](./Whisky/Bowmore/Bowmore_Signatory-Vintage_30th-Anniversary_1972_45yo_Refill-Sherry-Butt_46-7/README.md) |
 | 2026.05.19 | 2026.5.18  | The First Editions Highland Park Edition Spirits 1996 17yo HHD 54.1% |  | [Note](./Whisky/Highland_Park/Highland-Park_Edition-Spirits_The-First-Editions_1996_17yo_HHD_54-1/README.md) |
-| 2026.04.14 | 2026.03.21  | TeaPot Dram #11 Glengoyne OB 59.7% | 太妃糖 螢火蟲之墓糖果的糖粉 | [Note](./Whisky/Glengoyne/Glengoyne_OB_TeaPot-Dram-#11_59-7/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.04.14 | 2026.03.21  | TeaPot Dram #11 Glengoyne OB 59.7% | 太妃糖 螢火蟲之墓糖果的糖粉 | [Note](./Whisky/Glengoyne/Glengoyne_OB_TeaPot-Dram-#11_59-7/README.md) |
 | 2026.04.08 | 2026.03.21  | Cask Strength Batch 010 Glengoyne OB Oloroso 59.2% | 辛香料 起司蛋糕 多了一些仙草 香草 麥芽糖 | [Note](./Whisky/Glengoyne/Glengoyne_OB_Cask-Strength-Batch-010_Oloroso_59-2/README.md) |
 | 2026.04.08 | 2026.03.19  | Glengoyne OB 21yo 43% | 牛奶巧克力 森永牛奶糖 水果 巨峰葡萄 葡萄感 纖細的普洱茶時不時勾勒一筆 | [Note](./Whisky/Glengoyne/Glengoyne_OB_21yo_43-0/README.md) |
 | 2026.04.06 | 2025.11.22 @高雄酒展  | Single Cask Ballindalloch OB 2016 8yo 1st Bourbon 60.5% | 淡淡櫻花 | [Note](./Whisky/Ballindalloch/Ballindalloch_OB_Single-Cask_2016_8yo_1st-Bourbon_60-5/README.md) |
@@ -326,6 +327,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Caperdonich\Caperdonich_OB_NA_27yo_NA_49-2\README.md">📄 Caperdonich_OB_NA_27yo_NA_49-2</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Caperdonich\Caperdonich_OB_NA_27yo_NA_54-4\README.md">📄 Caperdonich_OB_NA_27yo_NA_54-4</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Caperdonich\Caperdonich_Signatory-Vintage_Cask-Strength-Collection_2000_21yo_HHD_55-0\README.md">📄 Caperdonich_Signatory-Vintage_Cask-Strength-Collection_2000_21yo_HHD_55-0</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Caperdonich\Caperdonich_威佬_1997_26yo_HHD_49.7\README.md">📄 Caperdonich_威佬_1997_26yo_HHD_49.7</a>
 

@@ -30,7 +30,7 @@
 
 下面是我給你的 row data，請依此產出文章並直接新增 `README.md`：
 
-Distillery	Vintage	Stated Age	Cask Type	Strength	Points	Price	Category	OB/Bottler	Bottling series	# bottles	Tasting Note	Link	Folder Name	Title														
-Highland Park	1996	17	HHD	54.1	90		Single Malt	Edition Spirits	The First Editions	216	"【香氣】淡淡的奶油，香草，小白花香氣
-【味道】Creamy 的剛剛好，不覺得油膩，香草籽、百合花，有酸甜有甜，尾韻有芒果的味道
-【結語】有花香的泥煤都是佳作，酒體稍嫌淡薄了一些但是瑕不掩瑜"		Highland-Park_Edition-Spirits_The-First-Editions_1996_17yo_HHD_54-1	The First Editions Highland Park Edition Spirits 1996 17yo HHD 54.1%														
+Distillery	Vintage	Stated Age	Cask Type	Strength	Points	Price	Category	OB/Bottler	Bottling series	# bottles	Tasting Note	Link	Folder Name	Title
+Caperdonich	2000	21	HHD	55	91		Single Malt	Signatory Vintage	Cask Strength Collection	263	"【香氣】蘋果 蜜餞 烏梅
+【味道】飛壘口香糖的香水味，胭脂的味道
+【結語】柔順美味"		Caperdonich_Signatory-Vintage_Cask-Strength-Collection_2000_21yo_HHD_55-0	Cask Strength Collection Caperdonich Signatory Vintage 2000 21yo HHD 55%
