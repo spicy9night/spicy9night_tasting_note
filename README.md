@@ -3,15 +3,20 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
-| 2026.05.20 | 2026.5.20  | Cask Strength Collection Caperdonich Signatory Vintage 2000 21yo HHD 55% | 蘋果與蜜餞的香甜氣息迎面撲來，烏梅的酸香為整體增添了優雅的層次感。高酒精度帶來的火熱感讓香氛更加躍動，在杯中翻騰著成熟果實與深色背景音符的交融。 口感豐盈而富有表現力。飛壘口香糖般的香水質感在舌尖蔓延，伴隨著胭脂般的優雅與內斂。強勁的酒質彰顯了 Cask Strength 的特色，但同時保持著出人意料的柔順感，讓人能感受到 21 年橡木桶賦予的成熟度與包裹感。 這是一瓶柔順而美味的威士忌，儘管酒精度高達 55%，卻沒有刺鼻的灼燒感。反而是像絲綢一樣溫柔地鋪展在口腔中，留下長久而舒服的餘韻。Caperdonich 在 Signatory Vintage 的精心挑選下，展現了其特有的甜感與優雅，是一瓶值得細細品味的佳釀。 | [Note](./Whisky/Caperdonich/Caperdonich_Signatory-Vintage_Cask-Strength-Collection_2000_21yo_HHD_55-0/README.md) |
-| 2026.05.19 | 2026.5.18  | 30th Anniversary Bowmore Signatory Vintage 1972 45yo Refill Sherry Butt 46.7% | 非常濃郁的熱帶水果，果乾，鳳梨，葡萄軟糖 柚木，酸感，而且還有奶油的香味，尾韻帶有西洋梨酸甜 爆發的香氣，濃郁的水果，油脂豐富又帶酸，非常棒的酒款，不愧是WB 92.16分的酒款 https://www.whiskybase.com/zh-cn/whiskies/whisky/118514 | [Note](./Whisky/Bowmore/Bowmore_Signatory-Vintage_30th-Anniversary_1972_45yo_Refill-Sherry-Butt_46-7/README.md) |
-| 2026.05.19 | 2026.5.18  | The First Editions Highland Park Edition Spirits 1996 17yo HHD 54.1% |  | [Note](./Whisky/Highland_Park/Highland-Park_Edition-Spirits_The-First-Editions_1996_17yo_HHD_54-1/README.md) |
+| 2026.05.24 | 2026.5.23  | The Fishes of Samoa Glenburgie Archives 1995 21yo HHD 54.1% | 在這瓶 1995 年 Glenburgie 21 年的 Archives 裝瓶中，最先帶出的是紅莓與覆盆莓的果香，還有些微的人篸氣息。整體香氣柔和但細緻，帶出一點成熟果實的甜感，讓人一聞就知道這是一款有層次的單一麥芽。 入口後 54.1% 的強度反而讓果香更飽滿，水蜜桃與杏桃的果肉感逐漸浮現。中段的甜度與果酸恰到好處，尾韻則持續延展出鮮果與淡淡香草的氣息，讓整體酒款有一種優雅的果香結構。 這支 The Fishes of Samoa 系列的 Glenburgie，雖然是 HHD 酒桶，但表現出來的水果感非常出色。Archives 系列的背景讓它多了一種精緻收藏感，適合慢慢品味、讓水果桃子味道在口中展開。 | [Note](./Whisky/Glenburgie/Glenburgie_Archives_The-Fishes-of-Samoa_1995_21yo_HHD_54-1/README.md) |
+| 2026.05.24 | 2026.5.23  | 黃曉明包桶 Glen Grant The Whisky Agency 1976 41yo Sherry Butt 46.4% | 茉莉花香和胭脂香水氣息先行，帶出非常熟的水果感，芒果和榴槤的厚實甜度在鼻中綻放。這支來自 Glen Grant 的 41 年單一麥芽，經過 Sherry Butt 熟成後，香氣內斂卻有層次。 入口先是胭脂與輕柔玫瑰，隨後淡淡芒果的果甜浮現。酒體飽滿、奶油感明顯，尾韻帶一點肉味，讓整體結構更有深度。 這是一支屬於內斂含蓄的 Glen Grant，香氣不是誇張花果，而是溫柔而悠長。Sherry Butt 的影響讓它的成熟果實感更圓潤，46.4% 的酒精度讓口感依然穩定而不失輕盈。 | [Note](./Whisky/Glen_Grant/Glen-Grant_The-Whisky-Agency_黃曉明包桶_1976_41yo_Sherry-Butt_46-4/README.md) |
+| 2026.05.24 | 2026.5.24  | Highland Park OB 1979 30yo 48.1% | 奶油、蜂蜜和淡淡的橡木香氣交織，帶出一絲柔和的煙燻與香草底蘊。 入口先是薄荷與堅果的清爽感，接著慢慢轉為奶油甜感與淡淡鹹味，餘韻中有柔和煙燻與香草回甘。 這支 1979 年 30 年單一麥芽原廠裝瓶，48.1% 的強度仍保留溫潤口感，整體風格沉穩內斂，帶著 Highland Park 經典的煙燻與奶油香。 | [Note](./Whisky/Highland_Park/Highland-Park_OB_1979_30yo_48-1/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.05.24 | 2026.5.23  | Liquid Library Littlemill The Whisky Agency 1989 24yo Refill HHD 48.7% | 青草氣息清新，帶著一點生莓果的青爽，藍莓香慢慢浮起。放一下後，有點像剛出爐的麵包和奶油，整體香氣帶著微妙的熟成感。 入口輕柔淡雅，有些小蒼蘭的細緻花香，還有小白花的清甜。這款 48.7% 的 Littlemill 口感優雅，表現出典型的細緻花草調性。 酒體偏薄但不鬆散，沒有水掉的感覺，反而保持了相當悠長的尾韻。這支經過 Refill HHD 熟成的 24 年 Littlemill，清爽而耐喝，適合細細品味。 | [Note](./Whisky/Littlemill/Littlemill_The-Whisky-Agency_Liquid-Library_1989_24yo_Refill-HHD_48-7/README.md) |
+| 2026.05.24 | 2026.5.24  | Snow White No.13 Santis OB Marillen 杏桃酒桶 48% | 滿滿的杏桃香非常有特色，帶出熟果與果醬甜度，整體香氣濃郁又直接。 入口依舊是滿滿的杏桃，伴隨一點點硫感，但不影響整體甜點酒的角色，甜美果香和柔和酒體形成平衡。 這支 Santis OB 以 Marillen 杏桃酒桶風格鮮明，適合想嘗試果香型甜點酒的時候拿出來品，特色明確且值得一試。 | [Note](./Whisky/Santis/Santis_OB_Snow-White-No.13_Marillen-杏桃酒桶_48-0/README.md) |
+| 2026.05.20 | 2026.5.20  | Cask Strength Collection Caperdonich Signatory Vintage 2000 21yo HHD 55% | 蘋果與蜜餞的香甜氣息迎面撲來，烏梅的酸香為整體增添了優雅的層次感。高酒精度帶來的火熱感讓香氛更加躍動，在杯中翻騰著成熟果實與深色背景音符的交融。 口感豐盈而富有表現力。飛壘口香糖般的香水質感在舌尖蔓延，伴隨著胭脂般的優雅與內斂。強勁的酒質彰顯了 Cask Strength 的特色，但同時保持著出人意料的柔順感，讓人能感受到 21 年橡木桶賦予的成熟度與包裹感。 這是一瓶柔順而美味的威士忌，儘管酒精度高達 55%，卻沒有刺鼻的灼燒感。反而是像絲綢一樣溫柔地鋪展在口腔中，留下長久而舒服的餘韻。Caperdonich 在 Signatory Vintage 的精心挑選下，展現了其特有的甜感與優雅，是一瓶值得細細品味的佳釀。 | [Note](./Whisky/Caperdonich/Caperdonich_Signatory-Vintage_Cask-Strength-Collection_2000_21yo_HHD_55-0/README.md) |
+| 2026.05.19 | 2026.5.18  | 30th Anniversary Bowmore Signatory Vintage 1972 45yo Refill Sherry Butt 46.7% | 非常濃郁的熱帶水果，果乾，鳳梨，葡萄軟糖 柚木，酸感，而且還有奶油的香味，尾韻帶有西洋梨酸甜 爆發的香氣，濃郁的水果，油脂豐富又帶酸，非常棒的酒款，不愧是WB 92.16分的酒款 https://www.whiskybase.com/zh-cn/whiskies/whisky/118514 | [Note](./Whisky/Bowmore/Bowmore_Signatory-Vintage_30th-Anniversary_1972_45yo_Refill-Sherry-Butt_46-7/README.md) |
+| 2026.05.19 | 2026.5.18  | The First Editions Highland Park Edition Spirits 1996 17yo HHD 54.1% |  | [Note](./Whisky/Highland_Park/Highland-Park_Edition-Spirits_The-First-Editions_1996_17yo_HHD_54-1/README.md) |
 | 2026.04.14 | 2026.03.21  | TeaPot Dram #11 Glengoyne OB 59.7% | 太妃糖 螢火蟲之墓糖果的糖粉 | [Note](./Whisky/Glengoyne/Glengoyne_OB_TeaPot-Dram-#11_59-7/README.md) |
 | 2026.04.08 | 2026.03.21  | Cask Strength Batch 010 Glengoyne OB Oloroso 59.2% | 辛香料 起司蛋糕 多了一些仙草 香草 麥芽糖 | [Note](./Whisky/Glengoyne/Glengoyne_OB_Cask-Strength-Batch-010_Oloroso_59-2/README.md) |
 | 2026.04.08 | 2026.03.19  | Glengoyne OB 21yo 43% | 牛奶巧克力 森永牛奶糖 水果 巨峰葡萄 葡萄感 纖細的普洱茶時不時勾勒一筆 | [Note](./Whisky/Glengoyne/Glengoyne_OB_21yo_43-0/README.md) |
@@ -170,11 +175,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Brandy\The_Whisky_Jury\The-Whisky-Jury_Cognac-Famille-Cabanne_Petite-Champagne_1968_55yo_55.7\README.md">📄 The-Whisky-Jury_Cognac-Famille-Cabanne_Petite-Champagne_1968_55yo_55.7</a>
 
 </details>
-
-</details>
-
-<details>
-<summary><a href=".\EA\README.md">📁 EA</a></summary>
 
 </details>
 
@@ -408,6 +408,13 @@
 </details>
 
 <details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Glen_Grant\README.md">📂 Glen_Grant</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Grant\Glen-Grant_The-Whisky-Agency_黃曉明包桶_1976_41yo_Sherry-Butt_46-4\README.md">📄 Glen-Grant_The-Whisky-Agency_黃曉明包桶_1976_41yo_Sherry-Butt_46-4</a>
+
+</details>
+
+<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glen_Keith\README.md">📂 Glen_Keith</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Keith\Glen-Keith_OB_NA_31yo_NA_48-9\README.md">📄 Glen-Keith_OB_NA_31yo_NA_48-9</a>
@@ -429,6 +436,13 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Glen_Scotia\README.md">📂 Glen_Scotia</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glen_Scotia\Glen-Scotia_OB_2010_10yo_1st-Barrel-(Heavy-Char)_55-8\README.md">📄 Glen-Scotia_OB_2010_10yo_1st-Barrel-(Heavy-Char)_55-8</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Glenburgie\README.md">📂 Glenburgie</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Glenburgie\Glenburgie_Archives_The-Fishes-of-Samoa_1995_21yo_HHD_54-1\README.md">📄 Glenburgie_Archives_The-Fishes-of-Samoa_1995_21yo_HHD_54-1</a>
 
 </details>
 
@@ -496,6 +510,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_Edition-Spirits_The-First-Editions_1996_17yo_HHD_54-1\README.md">📄 Highland-Park_Edition-Spirits_The-First-Editions_1996_17yo_HHD_54-1</a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_OB_1979_30yo_48-1\README.md">📄 Highland-Park_OB_1979_30yo_48-1</a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7\README.md">📄 Highland-Park_WhiskyFind_2008_15yo_1st-Bourbon_55-7</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Highland_Park\Highland-Park_Ór-Sileis_1998_21yo_HHD_54-0\README.md">📄 Highland-Park_Ór-Sileis_1998_21yo_HHD_54-0</a>
@@ -551,6 +567,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Littlemill\Littlemill_Casky_Finest-Selection_1989_33yo_HHD_50-2\README.md">📄 Littlemill_Casky_Finest-Selection_1989_33yo_HHD_50-2</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Littlemill\Littlemill_Hideo-Yamaoka_Whisky-Mew_攻殻機動隊-草薙素子_1988_35yo_HHD_51-0\README.md">📄 Littlemill_Hideo-Yamaoka_Whisky-Mew_攻殻機動隊-草薙素子_1988_35yo_HHD_51-0</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Littlemill\Littlemill_The-Whisky-Agency_Liquid-Library_1989_24yo_Refill-HHD_48-7\README.md">📄 Littlemill_The-Whisky-Agency_Liquid-Library_1989_24yo_Refill-HHD_48-7</a>
 
 </details>
 
@@ -648,6 +666,13 @@
 </details>
 
 <details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Santis\README.md">📂 Santis</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Santis\Santis_OB_Snow-White-No.13_Marillen-杏桃酒桶_48-0\README.md">📄 Santis_OB_Snow-White-No.13_Marillen-杏桃酒桶_48-0</a>
+
+</details>
+
+<details>
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Secret_Islay\README.md">📂 Secret_Islay</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Secret_Islay\Secret-Islay_The-Whisky-Agency_2013_11yo_HHD_50-2\README.md">📄 Secret-Islay_The-Whisky-Agency_2013_11yo_HHD_50-2</a>
@@ -696,6 +721,11 @@
 </details>
 
 </details>
+
+</details>
+
+<details>
+<summary><a href=".\__pycache__\README.md">📁 __pycache__</a></summary>
 
 </details>
 
