@@ -32,6 +32,6 @@
 下面是我給你的 row data，請依此產出文章並直接新增 `README.md`：
 
 Distillery	Vintage	Stated Age	Cask Type	Strength	Points	Price	Category	OB/Bottler	Bottling series	# bottles	Tasting Note	Link	Folder Name	Title
-Highland Park	1979	30		48.1	88	350	Single Malt	OB			"【香氣】奶油香氣
-【味道】薄荷 堅果
-【結語】淡淡奶油 煙燻尾韻有個香草香氣"		Highland-Park_OB_1979_30yo_48-1	Highland Park OB 1979 30yo 48.1%														
+Omar			柳丁桶	56	88	4500	Single Malt	OB			"【香氣】柳丁皮油非常突出
+【味道】百分百橘子感冒糖漿
+【結語】這次喝的版本感覺皮油味太多，太像感冒糖漿，以前的版本比較是橘子風味"		Omar_OB_柳丁桶_56-0	Omar OB 柳丁桶 56%														
