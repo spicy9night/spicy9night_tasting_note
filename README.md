@@ -3,15 +3,16 @@
 # update history
 | 新增日期   | 品飲日期    | 酒 款                                              | 風味概述                        | 筆記      |
 |------------|-------------|----------------------------------------------------|---------------------------------|-----------|
+| 2026.09.18 | 2026.9.18  | Fettercairn  Scotia Royale 1976 35yo Bourbon Casks 50.6% | 強烈的硫與泡泡膠氣息先行，隨後慢慢打開出成熟熱帶果實的甜香，桃子與哈密瓜的果香在杯中漸漸浮現。 味道非常濃郁，油脂感豐富但仍帶有明顯的新酒感；入口像是滾燙的鼎泰豐湯包在嘴裡，辣口但又香，桃子與哈密瓜的果甜與略帶辛感的橡木互相交織，50.6% 的酒精度讓香氣與口感更為直接有力。 剛開瓶時有較明顯的琉味與臭味，但放一會兒後香氣大幅爆發、變化豐富，成熟水果味道非常濃烈，是一支既有力量又有趣味性的 1976 年 Fettercairn單一麥芽。 | [Note](./Whisky/Fettercairn/Fettercairn_-Scotia-Royale_1976_35yo_Bourbon-Casks_50-6/README.md) |
 | 2026.07.27 | 2026.7.27  | Omar OB 柳丁桶 56% | 柳丁皮油非常突出，聞起來像是剛削下來的柳丁皮與果皮精油，帶著濃烈的柑橘油脂感，還有一點乾果與成熟果香的底蘊，這支 OB 裝瓶的 Omar 在香氣上就很有辨識度。 入口後是百分百橘子感冒糖漿的感覺，甜中帶著濃厚的柑橘果味與皮脂感，像是把橘子皮、果肉和糖分一起壓縮成一口厚實的果醬。作為 56% 的 Single Malt，酒精的推力把這種柳丁桶帶來的果香和油感拉得更明顯，口感相當鮮明。 這次喝到的版本確實有點太偏向皮油與感冒糖漿的方向，讓整體風格比我印象中更重，也少了一些更像橘子果實本身的清爽與層次。雖然這樣的表現很有個性，但對我來說還是偏極端了一些，倒也因此成為一次很難忘的品飲記錄。 | [Note](./Whisky/Omar/Omar_OB_柳丁桶_56-0/README.md) |
 | 2026.07.27 | 2026.7.27  | Omar OB 梅子桶 51.6% | 新鮮水果的感覺非常直接，梅子與百香果的果香一起湧上來，帶著一點清爽的酸甜氣息，這支 OB 裝瓶的 Omar 在香氣上就像一口剛剛採下來的熱帶與核果混合果實。 喝下去有梅子的生津感，酸甜的層次很明顯，還有百香果那種鮮明花果香氣在尾端跟著一起跑出來，酒體輕柔，沒有太厚重的壓迫感，反而讓這種果香顯得格外清爽。 這次喝到的版本很有趣，整體像是把新鮮水果的鮮甜和輕盈酒體完美綁在一起，酸甜感不會過頭，反而讓人覺得很舒服。作為一支以梅子桶為特色的 Omar，這次的表現相當有辨識度，也很適合在下午或天氣熱的時候慢慢品。 | [Note](./Whisky/Omar/Omar_OB_梅子桶_51-6/README.md) |
-| 2026.05.24 | 2026.5.23  | The Fishes of Samoa Glenburgie Archives 1995 21yo HHD 54.1% | 在這瓶 1995 年 Glenburgie 21 年的 Archives 裝瓶中，最先帶出的是紅莓與覆盆莓的果香，還有些微的人篸氣息。整體香氣柔和但細緻，帶出一點成熟果實的甜感，讓人一聞就知道這是一款有層次的單一麥芽。 入口後 54.1% 的強度反而讓果香更飽滿，水蜜桃與杏桃的果肉感逐漸浮現。中段的甜度與果酸恰到好處，尾韻則持續延展出鮮果與淡淡香草的氣息，讓整體酒款有一種優雅的果香結構。 這支 The Fishes of Samoa 系列的 Glenburgie，雖然是 HHD 酒桶，但表現出來的水果感非常出色。Archives 系列的背景讓它多了一種精緻收藏感，適合慢慢品味、讓水果桃子味道在口中展開。 | [Note](./Whisky/Glenburgie/Glenburgie_Archives_The-Fishes-of-Samoa_1995_21yo_HHD_54-1/README.md) |
     
 <details>
 <summary>Show All</summary>
 
 | 新增日期    | 品飲日期    | 酒 款                                | 風味概述                        | 筆記      |
 |-------------|-------------|--------------------------------------|---------------------------------|-----------|
+| 2026.05.24 | 2026.5.23  | The Fishes of Samoa Glenburgie Archives 1995 21yo HHD 54.1% | 在這瓶 1995 年 Glenburgie 21 年的 Archives 裝瓶中，最先帶出的是紅莓與覆盆莓的果香，還有些微的人篸氣息。整體香氣柔和但細緻，帶出一點成熟果實的甜感，讓人一聞就知道這是一款有層次的單一麥芽。 入口後 54.1% 的強度反而讓果香更飽滿，水蜜桃與杏桃的果肉感逐漸浮現。中段的甜度與果酸恰到好處，尾韻則持續延展出鮮果與淡淡香草的氣息，讓整體酒款有一種優雅的果香結構。 這支 The Fishes of Samoa 系列的 Glenburgie，雖然是 HHD 酒桶，但表現出來的水果感非常出色。Archives 系列的背景讓它多了一種精緻收藏感，適合慢慢品味、讓水果桃子味道在口中展開。 | [Note](./Whisky/Glenburgie/Glenburgie_Archives_The-Fishes-of-Samoa_1995_21yo_HHD_54-1/README.md) |
 | 2026.05.24 | 2026.5.23  | 黃曉明包桶 Glen Grant The Whisky Agency 1976 41yo Sherry Butt 46.4% | 茉莉花香和胭脂香水氣息先行，帶出非常熟的水果感，芒果和榴槤的厚實甜度在鼻中綻放。這支來自 Glen Grant 的 41 年單一麥芽，經過 Sherry Butt 熟成後，香氣內斂卻有層次。 入口先是胭脂與輕柔玫瑰，隨後淡淡芒果的果甜浮現。酒體飽滿、奶油感明顯，尾韻帶一點肉味，讓整體結構更有深度。 這是一支屬於內斂含蓄的 Glen Grant，香氣不是誇張花果，而是溫柔而悠長。Sherry Butt 的影響讓它的成熟果實感更圓潤，46.4% 的酒精度讓口感依然穩定而不失輕盈。 | [Note](./Whisky/Glen_Grant/Glen-Grant_The-Whisky-Agency_黃曉明包桶_1976_41yo_Sherry-Butt_46-4/README.md) |
 | 2026.05.24 | 2026.5.24  | Highland Park OB 1979 30yo 48.1% | 奶油、蜂蜜和淡淡的橡木香氣交織，帶出一絲柔和的煙燻與香草底蘊。 入口先是薄荷與堅果的清爽感，接著慢慢轉為奶油甜感與淡淡鹹味，餘韻中有柔和煙燻與香草回甘。 這支 1979 年 30 年單一麥芽原廠裝瓶，48.1% 的強度仍保留溫潤口感，整體風格沉穩內斂，帶著 Highland Park 經典的煙燻與奶油香。 | [Note](./Whisky/Highland_Park/Highland-Park_OB_1979_30yo_48-1/README.md) |
 | 2026.05.24 | 2026.5.23  | Liquid Library Littlemill The Whisky Agency 1989 24yo Refill HHD 48.7% | 青草氣息清新，帶著一點生莓果的青爽，藍莓香慢慢浮起。放一下後，有點像剛出爐的麵包和奶油，整體香氣帶著微妙的熟成感。 入口輕柔淡雅，有些小蒼蘭的細緻花香，還有小白花的清甜。這款 48.7% 的 Littlemill 口感優雅，表現出典型的細緻花草調性。 酒體偏薄但不鬆散，沒有水掉的感覺，反而保持了相當悠長的尾韻。這支經過 Refill HHD 熟成的 24 年 Littlemill，清爽而耐喝，適合細細品味。 | [Note](./Whisky/Littlemill/Littlemill_The-Whisky-Agency_Liquid-Library_1989_24yo_Refill-HHD_48-7/README.md) |
@@ -382,6 +383,13 @@
 <summary>&nbsp;&nbsp;<a href=".\Whisky\Dailuaine\README.md">📂 Dailuaine</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Dailuaine\Dailuaine_The-Whisky-Agency_2007_15yo_HHD_52-1\README.md">📄 Dailuaine_The-Whisky-Agency_2007_15yo_HHD_52-1</a>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<a href=".\Whisky\Fettercairn\README.md">📂 Fettercairn</a></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=".\Whisky\Fettercairn\Fettercairn_-Scotia-Royale_1976_35yo_Bourbon-Casks_50-6\README.md">📄 Fettercairn_-Scotia-Royale_1976_35yo_Bourbon-Casks_50-6</a>
 
 </details>
 

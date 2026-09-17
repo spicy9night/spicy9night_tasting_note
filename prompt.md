@@ -32,6 +32,6 @@
 下面是我給你的 row data，請依此產出文章並直接新增 `README.md`：
 
 Distillery	Vintage	Stated Age	Cask Type	Strength	Points	Price	Category	OB/Bottler	Bottling series	# bottles	Tasting Note	Link	Folder Name	Title
-Omar			柳丁桶	56	88	4500	Single Malt	OB			"【香氣】柳丁皮油非常突出
-【味道】百分百橘子感冒糖漿
-【結語】這次喝的版本感覺皮油味太多，太像感冒糖漿，以前的版本比較是橘子風味"		Omar_OB_柳丁桶_56-0	Omar OB 柳丁桶 56%														
+Fettercairn	1976	35	Bourbon Casks	50.6	92	30800	Single Malt	 Scotia Royale		125	"【香氣】強烈的硫 泡泡膠 
+【味道】味道非常濃郁，油脂感非常豐富，但新酒味也非常明顯，像滾燙的鼎泰豐湯包在嘴巴裡，好辣口但是又好香，桃子味 哈密瓜味非常明顯
+【結語】味道風味十足，剛開瓶的時候，琉味臭味很多，開瓶完一陣子後，香氣爆發，變化多端，成熟水果味道非常濃烈，有趣又好喝的一款"		Fettercairn_-Scotia-Royale_1976_35yo_Bourbon-Casks_50-6	Fettercairn  Scotia Royale 1976 35yo Bourbon Casks 50.6%																											
